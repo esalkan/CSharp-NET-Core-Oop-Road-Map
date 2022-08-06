@@ -1,0 +1,39 @@
+﻿namespace CS01_12_ConsiciousTypeCasting
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            // Bilinçli Tür Dönüşümü
+            // Consicious Type Casting
+
+            byte num1 = 100;                // True
+            byte byteMin = Byte.MinValue;   // 0
+            byte byteMax = Byte.MaxValue;   // 255
+            // num1 = 256; compile time error occurs
+
+            int num2 = 256;
+            int intMin = int.MinValue;
+            int intMax = int.MaxValue;
+            Console.WriteLine(intMin);
+            Console.WriteLine(intMax);
+
+            int num3 = num1; // Consicious Type Casting
+            /*
+             * num1 data type is "byte" and it value range between 0 - 255
+             * num3 data type is "int" and it value range between  -2147483648 - 2147483647
+             * int data type can keep in it more bigger values than byte and we know that.
+             * and we assign num1 value to num3 and it data type become int. This is Consicious type Casting.
+             *
+             * num1 veri türü "byte" ve 0 - 255 arasında değer aralığını tutabilir.
+             * num3 veri türü "int" ve -2147483648 - 2147483647 arasında değer aralığı tutabilir.
+             * int veri türü, içinde bayttan daha büyük değerler tutabilir ve bunu biliyoruz.
+             * Ve num1 değerini num3'e atarız ve veri türü "int" olur. Bu Bilinçli bir tür dönüşümüdür.
+             */
+
+
+
+        }
+    }
+}
+

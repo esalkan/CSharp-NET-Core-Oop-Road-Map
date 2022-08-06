@@ -24,7 +24,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS01_10_VariableActivityFie
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS01_11_Exercise_01", "CS01_11_Exercise_01\CS01_11_Exercise_01.csproj", "{486F441D-990C-4812-9257-985534FC440A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS01_12_ConsiciousTypeConversion", "CS01_12_ConsiciousTypeConversion\CS01_12_ConsiciousTypeConversion.csproj", "{1D390D65-E56D-48B8-B0FD-2190B33BAB30}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS01_12_ConsiciousTypeCasting", "CS01_12_ConsiciousTypeCasting\CS01_12_ConsiciousTypeCasting.csproj", "{1D390D65-E56D-48B8-B0FD-2190B33BAB30}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
