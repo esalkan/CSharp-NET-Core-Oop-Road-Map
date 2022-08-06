@@ -26,6 +26,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS01_11_Exercise_01", "CS01
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS01_12_ConsiciousTypeCasting", "CS01_12_ConsiciousTypeCasting\CS01_12_ConsiciousTypeCasting.csproj", "{1D390D65-E56D-48B8-B0FD-2190B33BAB30}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS01_13_UnconsciousTypeCasting", "CS01_13_UnconsciousTypeCasting\CS01_13_UnconsciousTypeCasting.csproj", "{C48DA479-9963-4E6A-979D-42C30A622848}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -44,6 +46,7 @@ Global
 		{2F01172D-C470-4EBC-B8EC-AB63CEF1F019} = {913A3481-0781-4957-BB8F-7F0CD89ADBAF}
 		{486F441D-990C-4812-9257-985534FC440A} = {913A3481-0781-4957-BB8F-7F0CD89ADBAF}
 		{1D390D65-E56D-48B8-B0FD-2190B33BAB30} = {913A3481-0781-4957-BB8F-7F0CD89ADBAF}
+		{C48DA479-9963-4E6A-979D-42C30A622848} = {913A3481-0781-4957-BB8F-7F0CD89ADBAF}
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{FE6BB467-2605-410C-BE61-70549560CA99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -94,5 +97,9 @@ Global
 		{1D390D65-E56D-48B8-B0FD-2190B33BAB30}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1D390D65-E56D-48B8-B0FD-2190B33BAB30}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1D390D65-E56D-48B8-B0FD-2190B33BAB30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C48DA479-9963-4E6A-979D-42C30A622848}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C48DA479-9963-4E6A-979D-42C30A622848}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C48DA479-9963-4E6A-979D-42C30A622848}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C48DA479-9963-4E6A-979D-42C30A622848}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
