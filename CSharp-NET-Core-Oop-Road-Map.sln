@@ -16,7 +16,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS01_06_Double_Decimal_Floa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS01_07_Boolean", "CS01_07_Boolean\CS01_07_Boolean.csproj", "{E83EACD7-FB10-4B78-8EF6-B644C6AA3A49}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS01_DateTime", "CS01_DateTime\CS01_DateTime.csproj", "{DEE76FAA-0AEA-4477-839F-373931372B85}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS01_08_DateTime", "CS01_08_DateTime\CS01_08_DateTime.csproj", "{DEE76FAA-0AEA-4477-839F-373931372B85}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
