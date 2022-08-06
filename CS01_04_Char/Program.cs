@@ -1,4 +1,4 @@
-﻿namespace CS01_04_CharVariableTypeAndMethods
+﻿namespace CS01_04_Char
 {
     class Program
     {
