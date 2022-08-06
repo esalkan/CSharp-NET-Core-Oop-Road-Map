@@ -8,6 +8,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS01_02_Variables", "CS01_0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS01_03_StringVariableTypeAndMethods", "CS01_03_StringVariableTypeAndMethods\CS01_03_StringVariableTypeAndMethods.csproj", "{3E59098F-D04D-4C63-9B2E-6D6AE44126DA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS01_04_CharVariableTypeAndMethods", "CS01_04_CharVariableTypeAndMethods\CS01_04_CharVariableTypeAndMethods.csproj", "{629CB958-5818-4543-9F0B-0CAA0497EFC5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,6 +19,7 @@ Global
 		{FE6BB467-2605-410C-BE61-70549560CA99} = {913A3481-0781-4957-BB8F-7F0CD89ADBAF}
 		{73C7DEAD-FCAF-4853-829E-F5E8BD4D2989} = {913A3481-0781-4957-BB8F-7F0CD89ADBAF}
 		{3E59098F-D04D-4C63-9B2E-6D6AE44126DA} = {913A3481-0781-4957-BB8F-7F0CD89ADBAF}
+		{629CB958-5818-4543-9F0B-0CAA0497EFC5} = {913A3481-0781-4957-BB8F-7F0CD89ADBAF}
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{FE6BB467-2605-410C-BE61-70549560CA99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -31,5 +34,9 @@ Global
 		{3E59098F-D04D-4C63-9B2E-6D6AE44126DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3E59098F-D04D-4C63-9B2E-6D6AE44126DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3E59098F-D04D-4C63-9B2E-6D6AE44126DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{629CB958-5818-4543-9F0B-0CAA0497EFC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{629CB958-5818-4543-9F0B-0CAA0497EFC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{629CB958-5818-4543-9F0B-0CAA0497EFC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{629CB958-5818-4543-9F0B-0CAA0497EFC5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
