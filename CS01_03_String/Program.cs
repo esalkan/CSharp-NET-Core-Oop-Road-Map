@@ -1,4 +1,4 @@
-﻿namespace CS01_03_StringVariableTypeAndMethods
+﻿namespace CS01_03_String
 {
     class Program
     {
