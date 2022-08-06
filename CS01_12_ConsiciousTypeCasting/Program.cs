@@ -4,6 +4,10 @@
     {
         static void Main(string[] args)
         {
+            
+            // NOTE : Run the project in DEBUG mode from line 14. Go step-by-step, see the process and errors.
+            // NOT  : Projeyi 14. satırdan DEBUG modunda çalıştırın. Adım adım gidin, süreci ve hataları görün.
+            
             // Bilinçli Tür Dönüşümü
             // Consicious Type Casting
 
