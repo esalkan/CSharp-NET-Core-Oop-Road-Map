@@ -42,7 +42,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS01_19_Exercise_03", "CS01
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS01_20_ArithmeticOperators_Addition", "CS01_20_ArithmeticOperators_Addition\CS01_20_ArithmeticOperators_Addition.csproj", "{B55B2D31-0A9C-4503-BB30-D736D368BF07}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS01_20_ArithmeticOperators_Substract", "CS01_20_ArithmeticOperators_Substract\CS01_20_ArithmeticOperators_Substract.csproj", "{638C80E4-E67A-4134-AA15-E6851EFF82DE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS01_21_ArithmeticOperators_Substract", "CS01_21_ArithmeticOperators_Substract\CS01_21_ArithmeticOperators_Substract.csproj", "{638C80E4-E67A-4134-AA15-E6851EFF82DE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
