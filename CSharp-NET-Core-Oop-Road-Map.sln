@@ -46,6 +46,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS01_21_ArithmeticOperators
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS01_22_ArithmeticOperators_Multiply", "CS01_22_ArithmeticOperators_Multiply\CS01_22_ArithmeticOperators_Multiply.csproj", "{5F1B8DCB-DF72-4BFC-AEDD-1199787FBF0E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS01_23_ArithmeticOperators_Divide", "CS01_23_ArithmeticOperators_Divide\CS01_23_ArithmeticOperators_Divide.csproj", "{19374FE8-40C5-44DB-9D19-42564B51FA77}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -74,6 +76,7 @@ Global
 		{B55B2D31-0A9C-4503-BB30-D736D368BF07} = {913A3481-0781-4957-BB8F-7F0CD89ADBAF}
 		{638C80E4-E67A-4134-AA15-E6851EFF82DE} = {913A3481-0781-4957-BB8F-7F0CD89ADBAF}
 		{5F1B8DCB-DF72-4BFC-AEDD-1199787FBF0E} = {913A3481-0781-4957-BB8F-7F0CD89ADBAF}
+		{19374FE8-40C5-44DB-9D19-42564B51FA77} = {913A3481-0781-4957-BB8F-7F0CD89ADBAF}
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{FE6BB467-2605-410C-BE61-70549560CA99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -164,5 +167,9 @@ Global
 		{5F1B8DCB-DF72-4BFC-AEDD-1199787FBF0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5F1B8DCB-DF72-4BFC-AEDD-1199787FBF0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5F1B8DCB-DF72-4BFC-AEDD-1199787FBF0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19374FE8-40C5-44DB-9D19-42564B51FA77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19374FE8-40C5-44DB-9D19-42564B51FA77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19374FE8-40C5-44DB-9D19-42564B51FA77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19374FE8-40C5-44DB-9D19-42564B51FA77}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
