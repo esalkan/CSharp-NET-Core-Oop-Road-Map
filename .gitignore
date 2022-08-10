@@ -6,3 +6,6 @@ riderModule.iml
 /.idea/
 *.DS_Store
 *.xml
+/.vs/CSharp-NET-Core-Oop-Road-Map
+/.vs/ProjectEvaluation
+/.vs
