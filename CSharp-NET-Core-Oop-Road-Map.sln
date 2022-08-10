@@ -67,6 +67,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CS01_30_Exercise_06", "CS01
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS01_31_ControlFlowStatement_IF", "CS01_31_ControlFlowStatement_IF\CS01_31_ControlFlowStatement_IF.csproj", "{392BD353-32D1-46FB-AF9D-0B195F83156A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS01_32_ControlFlowStatement_IF-ELSE", "CS01_32_ControlFlowStatement_IF-ELSE\CS01_32_ControlFlowStatement_IF-ELSE.csproj", "{010223DA-5428-4641-89ED-A21B4791ABD2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -197,6 +199,10 @@ Global
 		{392BD353-32D1-46FB-AF9D-0B195F83156A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{392BD353-32D1-46FB-AF9D-0B195F83156A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{392BD353-32D1-46FB-AF9D-0B195F83156A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{010223DA-5428-4641-89ED-A21B4791ABD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{010223DA-5428-4641-89ED-A21B4791ABD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{010223DA-5428-4641-89ED-A21B4791ABD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{010223DA-5428-4641-89ED-A21B4791ABD2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -233,6 +239,7 @@ Global
 		{8F99B658-B8C6-4BF6-AF16-3B15EAA6AE8B} = {913A3481-0781-4957-BB8F-7F0CD89ADBAF}
 		{F28A5253-0F2A-4764-A80D-9E191E4D945B} = {913A3481-0781-4957-BB8F-7F0CD89ADBAF}
 		{392BD353-32D1-46FB-AF9D-0B195F83156A} = {913A3481-0781-4957-BB8F-7F0CD89ADBAF}
+		{010223DA-5428-4641-89ED-A21B4791ABD2} = {913A3481-0781-4957-BB8F-7F0CD89ADBAF}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {06077E7A-1939-45B8-970B-9717CEFA525D}
