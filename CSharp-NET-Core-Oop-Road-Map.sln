@@ -73,6 +73,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS01_33_ControlFlowStatemen
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS01_34_ControlFlowStatement_SwitchCase", "CS01_34_ControlFlowStatement_SwitchCase\CS01_34_ControlFlowStatement_SwitchCase.csproj", "{6C5511B0-DC8F-4CA3-A45E-C177E673682F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS01_35_Exercise_07", "CS01_35_Exercise_07\CS01_35_Exercise_07.csproj", "{757E036E-F706-422D-9ACB-9ADF9991842D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -215,6 +217,10 @@ Global
 		{6C5511B0-DC8F-4CA3-A45E-C177E673682F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6C5511B0-DC8F-4CA3-A45E-C177E673682F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6C5511B0-DC8F-4CA3-A45E-C177E673682F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{757E036E-F706-422D-9ACB-9ADF9991842D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{757E036E-F706-422D-9ACB-9ADF9991842D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{757E036E-F706-422D-9ACB-9ADF9991842D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{757E036E-F706-422D-9ACB-9ADF9991842D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -254,6 +260,7 @@ Global
 		{010223DA-5428-4641-89ED-A21B4791ABD2} = {913A3481-0781-4957-BB8F-7F0CD89ADBAF}
 		{75FF4381-4E72-46D4-959A-6AEABB57E821} = {913A3481-0781-4957-BB8F-7F0CD89ADBAF}
 		{6C5511B0-DC8F-4CA3-A45E-C177E673682F} = {913A3481-0781-4957-BB8F-7F0CD89ADBAF}
+		{757E036E-F706-422D-9ACB-9ADF9991842D} = {913A3481-0781-4957-BB8F-7F0CD89ADBAF}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {06077E7A-1939-45B8-970B-9717CEFA525D}
