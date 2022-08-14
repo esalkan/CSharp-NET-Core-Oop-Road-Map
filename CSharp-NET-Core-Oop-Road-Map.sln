@@ -71,6 +71,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS01_32_ControlFlowStatemen
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS01_33_ControlFlowStatement_IF-ELSEIF-IF", "CS01_33_ControlFlowStatement_IF-ELSEIF-IF\CS01_33_ControlFlowStatement_IF-ELSEIF-IF.csproj", "{75FF4381-4E72-46D4-959A-6AEABB57E821}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS01_34_ControlFlowStatement_SwitchCase", "CS01_34_ControlFlowStatement_SwitchCase\CS01_34_ControlFlowStatement_SwitchCase.csproj", "{6C5511B0-DC8F-4CA3-A45E-C177E673682F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -209,6 +211,10 @@ Global
 		{75FF4381-4E72-46D4-959A-6AEABB57E821}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{75FF4381-4E72-46D4-959A-6AEABB57E821}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{75FF4381-4E72-46D4-959A-6AEABB57E821}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C5511B0-DC8F-4CA3-A45E-C177E673682F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C5511B0-DC8F-4CA3-A45E-C177E673682F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C5511B0-DC8F-4CA3-A45E-C177E673682F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C5511B0-DC8F-4CA3-A45E-C177E673682F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -247,6 +253,7 @@ Global
 		{392BD353-32D1-46FB-AF9D-0B195F83156A} = {913A3481-0781-4957-BB8F-7F0CD89ADBAF}
 		{010223DA-5428-4641-89ED-A21B4791ABD2} = {913A3481-0781-4957-BB8F-7F0CD89ADBAF}
 		{75FF4381-4E72-46D4-959A-6AEABB57E821} = {913A3481-0781-4957-BB8F-7F0CD89ADBAF}
+		{6C5511B0-DC8F-4CA3-A45E-C177E673682F} = {913A3481-0781-4957-BB8F-7F0CD89ADBAF}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {06077E7A-1939-45B8-970B-9717CEFA525D}
