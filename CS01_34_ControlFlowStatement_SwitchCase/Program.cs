@@ -50,7 +50,37 @@
             
             switch (userInput)
             {
-                case "January":
+                case "January": 
+                    Console.WriteLine("01");
+                    break;
+                case "Ocak":
+                    Console.WriteLine("01");
+                    break;
+                case "February":
+                    Console.WriteLine("02");
+                    break;
+                case "Şubat":
+                    Console.WriteLine("02");
+                    break;
+                case "March":
+                    Console.WriteLine("03");
+                    break;
+                case "Mart":
+                    Console.WriteLine("03");
+                    break;
+                default:
+                    Console.WriteLine("You entered a value other than the specified value.");
+                    Console.WriteLine("Belirtilen değerlerin dışında bir değer girişi yaptınız.");
+                    break;
+            }
+            
+            Console.WriteLine("----------> o <----------");
+            Console.WriteLine("Make a selection within the first 3 months\nİlk 3 ay içerisinden bir seçim yapın : ");
+            string userInputOrLogic = Console.ReadLine();
+            
+            switch (userInputOrLogic)
+            {
+                case "January": 
                 case "Ocak":
                     Console.WriteLine("01");
                     break;
@@ -61,42 +91,6 @@
                 case "March":
                 case "Mart":
                     Console.WriteLine("03");
-                    break;
-                case "April":
-                case "Nisan":
-                    Console.WriteLine("04");
-                    break;
-                case "May":
-                case "Mayıs":
-                    Console.WriteLine("05");
-                    break;
-                case "June":
-                case "Haziran":
-                    Console.WriteLine("06");
-                    break;
-                case "July":
-                case "Temmuz":
-                    Console.WriteLine("07");
-                    break;
-                case "August":
-                case "Ağustos":
-                    Console.WriteLine("08");
-                    break;
-                case "September":
-                case "Eylül":
-                    Console.WriteLine("09");
-                    break;
-                case "October":
-                case "Ekim":
-                    Console.WriteLine("10");
-                    break;
-                case "November":
-                case "Kasım":
-                    Console.WriteLine("11");
-                    break;
-                case "December":
-                case "Aralık":
-                    Console.WriteLine("12");
                     break;
                 default:
                     Console.WriteLine("You entered a value other than the specified value.");
