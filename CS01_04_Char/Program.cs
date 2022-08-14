@@ -1,20 +1,21 @@
-﻿namespace CS01_04_Char
+﻿namespace CS01_04_Char;
+
+internal class Program
 {
-    class Program
+    private static void Main(string[] args)
     {
-        static void Main(string[] args)
-        {
-            #region Char Variable Type & Char Methods
-            // Genellikle değişkende tek bir karakter saklamak için kullanırız.
-            // Usually we use it to store a single character in the variable.
+        #region Char Variable Type & Char Methods
 
-            // Kullanıcı Seçimi : E
-            // User Select : E
+        // Genellikle değişkende tek bir karakter saklamak için kullanırız.
+        // Usually we use it to store a single character in the variable.
 
-            char userSelectChar = 'A';
+        // Kullanıcı Seçimi : E
+        // User Select : E
 
-            Console.WriteLine(userSelectChar);
-            #endregion
-        }
+        var userSelectChar = 'A';
+
+        Console.WriteLine(userSelectChar);
+
+        #endregion
     }
 }

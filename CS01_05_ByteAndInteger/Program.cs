@@ -1,31 +1,31 @@
-﻿namespace CS01_05_ByteAndInteger
+﻿namespace CS01_05_ByteAndInteger;
+
+internal class Program
 {
-    class Program
+    private static void Main(string[] args)
     {
-        static void Main(string[] args)
-        {
-            #region Byte & Integer
-            // Byte :
-            //      Min Value : 0
-            //      MAx Value : 255
-            Console.WriteLine("-----> Byte <-----");
-            byte byteMaxValue = byte.MaxValue;
-            byte byteMinValue = byte.MinValue;
-            Console.WriteLine($"Byte MAX Value is : {byteMaxValue}" );
-            Console.WriteLine($"Byte MIN Value is : {byteMinValue}");
+        #region Byte & Integer
 
-            // Int :
-            //      Min Value : -214748
-            //      Max Value :
-            Console.WriteLine("-----> Integer <-----");
-            int intMaxValue = int.MaxValue;
-            int intMinValue = int.MinValue;
-            Console.WriteLine($"int MAX Value is : {intMaxValue}");
-            Console.WriteLine($"int MIN Value is : {intMinValue}");
+        // Byte :
+        //      Min Value : 0
+        //      MAx Value : 255
+        Console.WriteLine("-----> Byte <-----");
+        var byteMaxValue = byte.MaxValue;
+        var byteMinValue = byte.MinValue;
+        Console.WriteLine($"Byte MAX Value is : {byteMaxValue}");
+        Console.WriteLine($"Byte MIN Value is : {byteMinValue}");
 
-            Console.ReadKey();
-            #endregion
-        }
+        // Int :
+        //      Min Value : -214748
+        //      Max Value :
+        Console.WriteLine("-----> Integer <-----");
+        var intMaxValue = int.MaxValue;
+        var intMinValue = int.MinValue;
+        Console.WriteLine($"int MAX Value is : {intMaxValue}");
+        Console.WriteLine($"int MIN Value is : {intMinValue}");
+
+        Console.ReadKey();
+
+        #endregion
     }
 }
-

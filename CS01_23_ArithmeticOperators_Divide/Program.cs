@@ -1,22 +1,19 @@
-﻿namespace CS01_23_ArithmeticOperators_Divide
+﻿namespace CS01_23_ArithmeticOperators_Divide;
+
+internal class Program
 {
-    class Program
+    private static void Main(string[] args)
     {
-        static void Main(string[] args)
-        {
-            /*
-             * Divide | Bölme
-             * Operator : "/"
-             */
+        /*
+         * Divide | Bölme
+         * Operator : "/"
+         */
 
-            int s1 = 10;
-            int s2 = 2;
-            int result1 = s1 / s2;
+        var s1 = 10;
+        var s2 = 2;
+        var result1 = s1 / s2;
 
-            int s3 = 0;
-            int result2 = s1 / s3; // System.DivideByZeroException.
-
-        }
+        var s3 = 0;
+        var result2 = s1 / s3; // System.DivideByZeroException.
     }
 }
-

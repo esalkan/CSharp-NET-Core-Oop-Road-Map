@@ -1,13 +1,12 @@
-﻿namespace CS01_09_VariableBehaviors
+﻿namespace CS01_09_VariableBehaviors;
+
+internal class Program
 {
-    class Program
+    private static void Main(string[] args)
     {
-        static void Main(string[] args)
-        {
-            string val1 = "User 1";
-            string val2 = "User 2";
-            val1 = val2;
-            val2 = "user 3";
-        }
+        var val1 = "User 1";
+        var val2 = "User 2";
+        val1 = val2;
+        val2 = "user 3";
     }
 }
