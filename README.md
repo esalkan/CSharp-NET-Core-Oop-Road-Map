@@ -3,21 +3,10 @@ This repo contains C# & .NET Core and Oop Notes, Exercises and Works... You can 
 
 <details>
   <summary><h2>Basics</h2></summary>
-  <ol>
-    <li>
-      <a href="https://github.com/esalkan/CSharp-NET-Core-Oop-Road-Map/blob/master/CS01_01_ConsoleApp/Program.cs">Console App</a>
-    </li>
-  </ol>
+  [Byte & Integer](https://github.com/esalkan/CSharp-NET-Core-Oop-Road-Map/blob/master/CS01_05_ByteAndInteger/Program.cs)
 </details>
 
-## Basics
-[Console App](https://github.com/esalkan/CSharp-NET-Core-Oop-Road-Map/blob/master/CS01_01_ConsoleApp/Program.cs)
-<br>
-[Variables](https://github.com/esalkan/CSharp-NET-Core-Oop-Road-Map/blob/master/CS01_02_Variables/Program.cs)
-<br>
-[String](https://github.com/esalkan/CSharp-NET-Core-Oop-Road-Map/blob/master/CS01_03_String/Program.cs)
-<br>
-[Char](https://github.com/esalkan/CSharp-NET-Core-Oop-Road-Map/blob/master/CS01_04_Char/Program.cs)
+[]()
 <br>
 [Byte & Integer](https://github.com/esalkan/CSharp-NET-Core-Oop-Road-Map/blob/master/CS01_05_ByteAndInteger/Program.cs)
 <br>
