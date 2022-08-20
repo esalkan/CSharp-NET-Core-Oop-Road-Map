@@ -1,4 +1,4 @@
-﻿namespace CS01_32_ControlFlowStatement_IF_ELSEIF_ELSE;
+﻿namespace CS01_33_ControlFlowStatement_IF_ELSEIF_IF;
 
 internal class Program
 {
