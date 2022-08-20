@@ -159,7 +159,7 @@ This repo contains C# & .NET Core and Oop Notes, Exercises and Works... You can 
     	<a href="https://github.com/esalkan/CSharp-NET-Core-Oop-Road-Map/blob/master/CS03_01_Collections/Program.cs">Collections</a>
     </li>
     <li>
-    	<a href="#">ArrayList</a>
+    	<a href="https://github.com/esalkan/CSharp-NET-Core-Oop-Road-Map/blob/master/CS03_02_ArrayList/Program.cs">ArrayList</a>
     </li>
     <li>
     	<a href="#">Hashtable</a>
