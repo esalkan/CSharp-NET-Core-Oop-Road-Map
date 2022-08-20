@@ -329,6 +329,110 @@ namespace CS03_02_ArrayList
             arrayList.TrimToSize();
             Console.WriteLine(arrayList.Count);
             #endregion
+
+            #region Example
+
+            string userSelection = string.Empty;
+            ArrayList valueList = new ArrayList();
+            do
+            {
+                Console.Clear();
+                Console.WriteLine("Menu");
+                Console.WriteLine("1 - Add Value");
+                Console.WriteLine("2 - List Value");
+                Console.WriteLine("3 - Search Value");
+                Console.WriteLine("4 - Edit Value");
+                Console.WriteLine("5 - Delete Value");
+                Console.WriteLine("6 - App Exit");
+                Console.Write("Please choose: ");
+                userSelection = Console.ReadLine();
+
+                switch (userSelection)
+                {
+                    case "1":
+                        Console.Write("Please enter the value you want to add:");
+                        string userValue = Console.ReadLine();
+                        valueList.Add(userValue);
+                        Console.WriteLine("Your value has been successfully added");
+                        System.Threading.Thread.Sleep(2000);
+                        break;
+                    case "2":
+                        for (int i = 0; i < valueList.Count; i++)
+                        {
+                            Console.WriteLine("{0}. Değer = {1}", i, valueList[i]);
+                        }
+                        Console.WriteLine("Press a button to continue.");
+                        Console.ReadLine();
+                        break;
+                    case "3":
+                        Console.WriteLine("Enter the value you want to search");
+                        string userSearchValue = Console.ReadLine();
+                        bool control = valueList.Contains(userSearchValue);
+                        if (control)
+                        {
+                            int foundedIndex = valueList.IndexOf(userSearchValue);
+                            string foundedValue = valueList[foundedIndex].ToString();
+                            Console.WriteLine("Your Value Found: index order :{0} - Value : {1}", foundedIndex, foundedValue);
+                        }
+                        else
+                        {
+                            Console.WriteLine("No value found for your search criteria");
+                        }
+                        System.Threading.Thread.Sleep(2000);
+                        break;
+                    case "4":
+
+                        Console.WriteLine("Enter the value you want to update:");
+                        string userValueToEdit = Console.ReadLine();
+
+                        Console.WriteLine("What value do you want to update {0} with?", userValueToEdit);
+                        string userNewValue = Console.ReadLine();
+
+                        if(valueList.Contains(userValueToEdit))
+                        {
+                            int userTargetIndex = valueList.IndexOf(userValueToEdit);
+                            valueList[userTargetIndex] = userNewValue;
+                            Console.WriteLine("Your value has been updated");
+                        }
+                        else
+                        {
+                            Console.WriteLine("The value you are looking for was not found in the list.");
+                        }
+
+                        System.Threading.Thread.Sleep(2000);
+
+                        break;
+                    case "5":
+                        Console.WriteLine("Do you want to delete all values (Y/N)");
+                        string userDeleteAnswer = Console.ReadLine();
+
+                        if(userDeleteAnswer.ToUpper() == "E")
+                        {
+                            valueList.Clear();
+                            Console.WriteLine("All values are deleted");
+                        }
+                        else
+                        {
+                            Console.WriteLine("Enter the value you want to delete in the list");
+                            string userDeleteValıe = Console.ReadLine();
+                            if(valueList.Contains(userDeleteValıe))
+                            {
+                                valueList.Remove(userDeleteValıe);
+                                Console.WriteLine("Your Value Has Been Deleted");
+                            }
+                            else
+                            {
+                                Console.WriteLine("The value you want to delete does not exist in the list.");
+                            }
+                        }
+
+                        break;
+                    default:
+                        break;
+                }
+            } while (userSelection != "6");
+
+            #endregion
         }
     }
 }
