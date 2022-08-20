@@ -2,7 +2,8 @@
 This repo contains C# & .NET Core and Oop Notes, Exercises and Works... You can fork the repo and add comment or new exercises, questions or assignments too... Feel free and just collobrate... ;)
 
 <details>
-  <summary><h2>Basics</h2></summary>
+  <summary><h3>Basics</h3></summary>
+	<hr>
   <ul>
     <li>
     <a href="https://github.com/esalkan/CSharp-NET-Core-Oop-Road-Map/blob/master/CS01_01_ConsoleApp/Program.cs">Console App</a>
