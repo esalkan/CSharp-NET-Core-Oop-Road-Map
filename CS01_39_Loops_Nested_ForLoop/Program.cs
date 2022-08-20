@@ -101,6 +101,26 @@
             }
 
             #endregion
+            
+            Console.WriteLine("\n+----------------------------------+\n");
+
+            #region the multiplication table | Çarpım Tablosu
+
+            int outter, inner;
+
+            for (outter = 1; outter <= 10; outter++)
+            {
+                for (inner = 1; inner <= 10; inner++)
+                {
+                    // Console.Write(outter + " * " + inner + " = " + outter*inner);
+                    // Console.Write("{0} * {1} = {2}", outter, inner, outter * innet);
+                    Console.Write($"{outter} * {inner} = {outter*inner}");
+                    Console.WriteLine();
+                }
+                Console.WriteLine();
+            }
+
+            #endregion
         }
     }
 }
