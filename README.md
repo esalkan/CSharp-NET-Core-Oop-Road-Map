@@ -132,7 +132,6 @@ This repo contains C# & .NET Core and Oop Notes, Exercises and Works... You can 
     </li>
   </ul>
 </details>
-
 <details>
   <summary><h3>Arrays</h3></summary>
   <ul>
