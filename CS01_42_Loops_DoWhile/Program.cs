@@ -1,6 +1,4 @@
-﻿using System.Diagnostics;
-
-namespace CS01_Loops_DoWhile
+﻿namespace CS01_42_Loops_DoWhile
 {
     class Program
     {
