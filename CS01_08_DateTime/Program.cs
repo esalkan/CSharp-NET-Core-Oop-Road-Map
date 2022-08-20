@@ -1,4 +1,4 @@
-﻿namespace CS01_08_DateTime;
+﻿namespace CS01_DateTime;
 
 internal class Program
 {
