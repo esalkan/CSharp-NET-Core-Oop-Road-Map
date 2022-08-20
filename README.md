@@ -40,3 +40,39 @@ This repo contains C# & .NET Core and Oop Notes, Exercises and Works... You can 
 <br>
 [Exercise 03](https://github.com/esalkan/CSharp-NET-Core-Oop-Road-Map/blob/master/CS01_19_Exercise_03/Program.cs)
 <br>
+[Arithmetic Operators Addition](https://github.com/esalkan/CSharp-NET-Core-Oop-Road-Map/blob/master/CS01_20_ArithmeticOperators_Addition/Program.cs)
+<br>
+[Arithmetic Operators Substract](https://github.com/esalkan/CSharp-NET-Core-Oop-Road-Map/blob/master/CS01_21_ArithmeticOperators_Substract/Program.cs)
+<br>
+[Arithmetic Operators Multiply](https://github.com/esalkan/CSharp-NET-Core-Oop-Road-Map/blob/master/CS01_22_ArithmeticOperators_Multiply/Program.cs)
+<br>
+[Arithmetic Operators Divide](https://github.com/esalkan/CSharp-NET-Core-Oop-Road-Map/blob/master/CS01_23_ArithmeticOperators_Divide/Program.cs)
+<br>
+[Increment & Decrement Operators](https://github.com/esalkan/CSharp-NET-Core-Oop-Road-Map/blob/master/CS01_24_Operators_Modulus_Increment_Decrement/Program.cs)
+<br>
+[Exercise 04](https://github.com/esalkan/CSharp-NET-Core-Oop-Road-Map/blob/master/CS01_25_Exercise_04/Program.cs)
+<br>
+[Exercise 05](https://github.com/esalkan/CSharp-NET-Core-Oop-Road-Map/blob/master/CS01_26_Exercise_05/Program.cs)
+<br>
+[Logical Operators](https://github.com/esalkan/CSharp-NET-Core-Oop-Road-Map/blob/master/CS01_27_LogicalOperators/Program.cs)
+<br>
+[Is Operator](https://github.com/esalkan/CSharp-NET-Core-Oop-Road-Map/blob/master/CS01_28_IsOperator/Program.cs)
+<br>
+[As Operator](https://github.com/esalkan/CSharp-NET-Core-Oop-Road-Map/blob/master/CS01_29_AsOperator/Program.cs)
+<br>
+[Exercise 06](https://github.com/esalkan/CSharp-NET-Core-Oop-Road-Map/blob/master/CS01_30_Exercise_06/Program.cs)
+<br>
+[Control Flow Statement - If](https://github.com/esalkan/CSharp-NET-Core-Oop-Road-Map/blob/master/CS01_31_ControlFlowStatement_IF/Program.cs)
+<br>
+[Control Flow Statement - If | else](https://github.com/esalkan/CSharp-NET-Core-Oop-Road-Map/blob/master/CS01_32_ControlFlowStatement_IF-ELSE/Program.cs)
+<br>
+[Control Flow Statement - If | else if | else](https://github.com/esalkan/CSharp-NET-Core-Oop-Road-Map/blob/master/CS01_33_ControlFlowStatement_IF-ELSEIF-IF/Program.cs)
+<br>
+[Control Flow Statement - Switch case](https://github.com/esalkan/CSharp-NET-Core-Oop-Road-Map/blob/master/CS01_34_ControlFlowStatement_SwitchCase/Program.cs)
+<br>
+[Exercise 07](https://github.com/esalkan/CSharp-NET-Core-Oop-Road-Map/blob/master/CS01_35_Exercise_07/Program.cs)
+<br>
+[Exercise 08](https://github.com/esalkan/CSharp-NET-Core-Oop-Road-Map/blob/master/CS01_36_Exercise_08/Program.cs)
+<br>
+[Exercise 09](https://github.com/esalkan/CSharp-NET-Core-Oop-Road-Map/blob/master/CS01_37_Exercise_09/Program.cs)
+<br>
