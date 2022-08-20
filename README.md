@@ -116,16 +116,19 @@ This repo contains C# & .NET Core and Oop Notes, Exercises and Works... You can 
       <a href="https://github.com/esalkan/CSharp-NET-Core-Oop-Road-Map/blob/master/CS01_37_Exercise_09/Program.cs">Exercise 09</a>
     </li>
     <li>
-      <a href=""></a>
+      <a href="https://github.com/esalkan/CSharp-NET-Core-Oop-Road-Map/blob/master/CS01_38_Loops_ForLoop/Program.cs">Loops - For Loop</a>
     </li>
     <li>
-      <a href=""></a>
+      <a href="https://github.com/esalkan/CSharp-NET-Core-Oop-Road-Map/blob/master/CS01_39_Loops_Nested_ForLoop/Program.cs">Loops - Nested For Loop</a>
     </li>
     <li>
-      <a href=""></a>
+      <a href="https://github.com/esalkan/CSharp-NET-Core-Oop-Road-Map/blob/master/CS01_40_Loops_ForEach/Program.cs">Loops - For each Loop</a>
     </li>
     <li>
-      <a href=""></a>
+      <a href="https://github.com/esalkan/CSharp-NET-Core-Oop-Road-Map/blob/master/CS01_41_Loops_While/Program.cs">Loops - While Loop</a>
     </li>
-	</ul>
+    <li>
+    	<a href="https://github.com/esalkan/CSharp-NET-Core-Oop-Road-Map/blob/master/CS01_42_Loops_DoWhile/Program.cs">Loops - Do While Loop</a>
+    </li>
+  </ul>
 </details>
