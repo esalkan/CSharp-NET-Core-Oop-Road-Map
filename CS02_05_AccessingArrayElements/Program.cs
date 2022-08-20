@@ -1,19 +1,62 @@
-﻿namespace CS01_40_Loops_ForEach
+﻿namespace CS02_05_AccessingArrayElements
 {
     class Program
     {
         static void Main(string[] args)
         {
-            #region General Usage | Genel Kullanım
-            string[] fruits = { "Watermelon", "Apple", "Banana", "Grape", "Coconat" };
+            // Accessing Array Elements | Dizi Öğelerine Erişim
+            
+            // An element is accessed by indexing the array name.
+            // This is done by placing the index of the element within square brackets after the name of the array.
+            
+            // Dizi adı indekslenerek bir elemana erişilir.
+            // Bu, dizinin adından sonra elemanın indeksini köşeli parantezler içine koyarak yapılır.
 
-            foreach (var fruit in fruits)
+            int []  n = new int[10]; /* n is an array of 10 integers */
+         
+            /* initialize elements of array n */
+            for ( int i = 0; i < 10; i++ ) {
+                n[i] = i + 100;
+            }
+            
+            Console.WriteLine("\n-----> foreach Loop <-----");
+            /* output each array element's value */
+            foreach (int j in n ) {
+                int i = j-100;
+                Console.WriteLine("Element[{0}] = {1}", i, j);
+            }
+            
+
+            
+            // Declaring, Initializing and Assigning Array
+            string[] studentNameList = new string[5];
+            
+            // Assigning values to the array
+            studentNameList[0] = "Ömer";
+            studentNameList[1] = "Ali";
+            studentNameList[2] = "Hasan";
+            studentNameList[3] = "Hüseyin";
+            studentNameList[4] = "Alkan";
+
+            // Console.WriteLine(studentNameList[1]);
+
+            #region Print the array elements | Dizi elemanlarını yazdırma
+
+            Console.WriteLine("\n-----> foreach Loop <-----");
+            foreach(string item in studentNameList)
             {
-                Console.WriteLine(fruit);
+                Console.WriteLine(item);
+            }
+
+            Console.WriteLine("\n-----> for Loop <-----");
+            for(int i = 0; i<studentNameList.Length; i++)
+            {
+                string stdName = studentNameList[i];
+                Console.WriteLine(stdName);
             }
             #endregion
-
-            #region Uygulama 1 | Example 1 
+            
+                        #region Uygulama 1 | Example 1 
             /*
              * int veri tipinde bir dizi oluşturalım , kullanıcımız dizinin kaç elemanlı olacağı bilgisini bize versin,
              * ve dizi içindeki alanlara değer ataması yapsın. Daha sonra dizi içerisindeki elemanların toplamlarını
@@ -95,7 +138,6 @@
             Console.WriteLine("Dizi içindeki 4 değeri {0} adettir.", example2Find);
             #endregion
 
-            
         }
     }
 }

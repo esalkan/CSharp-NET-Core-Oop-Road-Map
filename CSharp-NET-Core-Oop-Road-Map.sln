@@ -99,6 +99,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS02_03_InitializingArray",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS02_04_AssigningValuesToAnArray", "CS02_04_AssigningValuesToAnArray\CS02_04_AssigningValuesToAnArray.csproj", "{AF1ADA8D-DAFC-494C-9541-9A5954423011}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS02_05_AccessingArrayElements", "CS02_05_AccessingArrayElements\CS02_05_AccessingArrayElements.csproj", "{56001FF0-8F3A-4AC4-B1FE-0DFC7BC7B36D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -289,6 +291,10 @@ Global
 		{AF1ADA8D-DAFC-494C-9541-9A5954423011}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AF1ADA8D-DAFC-494C-9541-9A5954423011}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AF1ADA8D-DAFC-494C-9541-9A5954423011}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56001FF0-8F3A-4AC4-B1FE-0DFC7BC7B36D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56001FF0-8F3A-4AC4-B1FE-0DFC7BC7B36D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56001FF0-8F3A-4AC4-B1FE-0DFC7BC7B36D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56001FF0-8F3A-4AC4-B1FE-0DFC7BC7B36D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -340,6 +346,7 @@ Global
 		{5BAFDA6E-16CD-4300-8500-A36860FFE27B} = {AB643B01-ADF8-4FDE-8164-9AAE4FA0141C}
 		{62E924E7-DE41-4439-9EC7-D110AA6FA241} = {AB643B01-ADF8-4FDE-8164-9AAE4FA0141C}
 		{AF1ADA8D-DAFC-494C-9541-9A5954423011} = {AB643B01-ADF8-4FDE-8164-9AAE4FA0141C}
+		{56001FF0-8F3A-4AC4-B1FE-0DFC7BC7B36D} = {AB643B01-ADF8-4FDE-8164-9AAE4FA0141C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {06077E7A-1939-45B8-970B-9717CEFA525D}
