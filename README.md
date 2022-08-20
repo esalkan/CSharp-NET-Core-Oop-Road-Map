@@ -132,3 +132,23 @@ This repo contains C# & .NET Core and Oop Notes, Exercises and Works... You can 
     </li>
   </ul>
 </details>
+<details>
+  <summary><h3>Arrays</h3></summary>
+  <ul>
+    <li>
+    	<a href="https://github.com/esalkan/CSharp-NET-Core-Oop-Road-Map/blob/master/CS02_01_Arrays/Program.cs">Arrays</a>
+    </li>
+    <li>
+    	<a href="https://github.com/esalkan/CSharp-NET-Core-Oop-Road-Map/blob/master/CS02_02_DeclaringArrays/Program.cs">Declaring Arrays</a>
+    </li>
+    <li>
+    	<a href="https://github.com/esalkan/CSharp-NET-Core-Oop-Road-Map/blob/master/CS02_03_InitializingArray/Program.cs">Initializing Arrays</a>
+    </li>
+    <li>
+    	<a href="https://github.com/esalkan/CSharp-NET-Core-Oop-Road-Map/blob/master/CS02_04_AssigningValuesToAnArray/Program.cs">Assigning Values To An Array</a>
+    </li>
+    <li>
+    	<a href="https://github.com/esalkan/CSharp-NET-Core-Oop-Road-Map/blob/master/CS02_05_AccessingArrayElements/Program.cs">Accessing Array Elements</a>
+    </li>
+  </ul>
+</details>
