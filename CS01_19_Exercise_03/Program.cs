@@ -1,4 +1,4 @@
-﻿namespace CS01_19_Exercise_03;
+﻿namespace CS01_19_Exercise_02;
 
 internal class Program
 {
