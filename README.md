@@ -131,7 +131,8 @@ This repo contains C# & .NET Core and Oop Notes, Exercises and Works... You can 
     	<a href="https://github.com/esalkan/CSharp-NET-Core-Oop-Road-Map/blob/master/CS01_42_Loops_DoWhile/Program.cs">Loops - Do While Loop</a>
     </li>
   </ul>
-
+</details>
+<details>
   <summary><h3>Arrays</h3></summary>
   <ul>
     <li>
@@ -148,6 +149,32 @@ This repo contains C# & .NET Core and Oop Notes, Exercises and Works... You can 
     </li>
     <li>
     	<a href="https://github.com/esalkan/CSharp-NET-Core-Oop-Road-Map/blob/master/CS02_05_AccessingArrayElements/Program.cs">Accessing Array Elements</a>
+    </li>
+  </ul>
+</details>
+<details>
+  <summary><h3>Collections</h3></summary>
+  <ul>
+    <li>
+    	<a href="">Collections</a>
+    </li>
+    <li>
+    	<a href="">ArrayList</a>
+    </li>
+    <li>
+    	<a href="">Hashtable</a>
+    </li>
+    <li>
+    	<a href="">SortedList</a>
+    </li>
+    <li>
+    	<a href="">Stack</a>
+    </li>
+    <li>
+    	<a href="">Queue</a>
+    </li>
+    <li>
+    	<a href="">BitArray</a>
     </li>
   </ul>
 </details>
