@@ -156,25 +156,25 @@ This repo contains C# & .NET Core and Oop Notes, Exercises and Works... You can 
   <summary><h3>Collections</h3></summary>
   <ul>
     <li>
-    	<a href="">Collections</a>
+    	<a href="https://github.com/esalkan/CSharp-NET-Core-Oop-Road-Map/blob/master/CS03_01_Collections/Program.cs">Collections</a>
     </li>
     <li>
-    	<a href="">ArrayList</a>
+    	<a href="#">ArrayList</a>
     </li>
     <li>
-    	<a href="">Hashtable</a>
+    	<a href="#">Hashtable</a>
     </li>
     <li>
-    	<a href="">SortedList</a>
+    	<a href="#">SortedList</a>
     </li>
     <li>
-    	<a href="">Stack</a>
+    	<a href="#">Stack</a>
     </li>
     <li>
-    	<a href="">Queue</a>
+    	<a href="#">Queue</a>
     </li>
     <li>
-    	<a href="">BitArray</a>
+    	<a href="#">BitArray</a>
     </li>
   </ul>
 </details>
