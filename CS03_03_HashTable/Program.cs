@@ -236,8 +236,6 @@ namespace CS03_03_HashTable
             // GetObjectData(SerializationInfo, StreamingContext)
             // Implements the ISerializable interface and returns the data needed to serialize the Hashtable.
             // ISerializable arabirimini uygular ve Hashtable'ı seri hale getirmek için gereken verileri döndürür.
-            
-            
             #endregion
             
             #region KeyEquals(Object, Object)
@@ -245,8 +243,6 @@ namespace CS03_03_HashTable
             // KeyEquals(Object, Object)
             // Compares a specific Object with a specific key in the Hashtable.
             // Hashtable'da belirli bir Nesneyi belirli bir anahtarla karşılaştırır.
-
-            
             #endregion
             
             #region OnDeserialization(Object)
@@ -254,8 +250,6 @@ namespace CS03_03_HashTable
             // OnDeserialization(Object)
             // Implements the ISerializable interface and raises the deserialization event when the deserialization is complete.
             // ISerializable arabirimini uygular ve seri durumdan çıkarma tamamlandığında seri durumdan çıkarma olayını başlatır.
-
-            
             #endregion
             
             #region Remove(Object)
@@ -263,7 +257,6 @@ namespace CS03_03_HashTable
             // Remove(Object)
             // Removes the element with the specified key from the Hashtable.
             // Belirtilen anahtara sahip öğeyi Hashtable'dan kaldırır.
-
             #endregion
 
             #region Synchronized(Hashtable)
@@ -271,11 +264,51 @@ namespace CS03_03_HashTable
             // Synchronized(Hashtable)
             // Returns a synchronized (thread-safe) wrapper for the Hashtable.
             // Hashtable için eşitlenmiş (iş parçacığı için güvenli) bir sarmalayıcı döndürür.
-
             #endregion
+
+            #region Example Question & Answer
+
+            Console.WriteLine("İngilizce | Türkçe Sözlük.");
+            Hashtable dictionaryDB = new Hashtable();
+
+            do
+            {
+                Console.Clear();
+                Console.WriteLine("Eklemek istediğiniz ingilizce kelimeyi yazınız.\nType the English word you want to add.");
+                Console.WriteLine("EN : ");
+                string eng = Console.ReadLine();
+
+                bool control = dictionaryDB.ContainsKey(eng);
+                if (control)
+                {
+                    Console.WriteLine($"Eklemek istediğiniz kelime '{eng}' sözlük içerisinde mevcuttur.\n'{dictionaryDB[eng].ToString()}' türkçe karşılığıdır.");
+                    Console.WriteLine($"The word you want to add '{eng}' is available in the dictionary.\n'{dictionaryDB[eng].ToString()}' is the Turkish equivalent.");
+                }
+                else
+                {
+                    Console.WriteLine("TR : ");
+                    string tr = Console.ReadLine();
+                    dictionaryDB.Add(eng,tr);
+                    Console.WriteLine("Ekleme işlemi başarılı! | The insertion was successful!");
+                }
+
+                Console.WriteLine("Yeni kelime eklemek istiyor musunuz? (Y/N) | Do you want to add new word? (Y/N)");
+            } while (Console.ReadLine().ToUpper() == "Y");
+
+            foreach (var item in dictionaryDB.Keys)
+            {
+                Console.WriteLine($"Eng : {item}\nTr : {dictionaryDB[item]}\n");
+            }
+
+            foreach (DictionaryEntry item in dictionaryDB)
+            {
+                // Console.WriteLine(item.GetType().Name);
+                Console.WriteLine($"Eng : {item.Key} - Tr : {item.Value}");
+            }
+            #endregion
+
             
-            
-            
+
         }
     }
 }
