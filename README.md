@@ -162,10 +162,10 @@ This repo contains C# & .NET Core and Oop Notes, Exercises and Works... You can 
     	<a href="https://github.com/esalkan/CSharp-NET-Core-Oop-Road-Map/blob/master/CS03_02_ArrayList/Program.cs">ArrayList</a>
     </li>
     <li>
-    	<a href="#">Hashtable</a>
+    	<a href="https://github.com/esalkan/CSharp-NET-Core-Oop-Road-Map/blob/master/CS03_03_HashTable/Program.cs">Hashtable</a>
     </li>
     <li>
-    	<a href="#">SortedList</a>
+    	<a href="https://github.com/esalkan/CSharp-NET-Core-Oop-Road-Map/blob/master/CS03_04_SortedList/Program.cs">SortedList</a>
     </li>
     <li>
     	<a href="#">Stack</a>
