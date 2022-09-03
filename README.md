@@ -183,14 +183,26 @@ This repo contains C# & .NET Core and Oop Notes, Exercises and Works... You can 
     </li>
     <li>
     	<a href="https://github.com/esalkan/CSharp-NET-Core-Oop-Road-Map/blob/master/CS04_02_Main_Method/Program.cs"> Main Method</a>
+      <ul>
+        <li>
+          <a href="https://github.com/esalkan/CSharp-NET-Core-Oop-Road-Map/blob/master/CS04_02_Main_Method/Student.cs"> Student Class </a>
+        </li>
+      </ul>
     </li>
     <li>
     	<a href="https://github.com/esalkan/CSharp-NET-Core-Oop-Road-Map/tree/master/CS04_03_Defining_Method"> Defining a Method and Access Modifiers</a>
+      <ul>
+        <li>
+          <a href="[https://github.com/esalkan/CSharp-NET-Core-Oop-Road-Map/blob/master/CS04_04_Metod_Practice_MathOperations/Math.cs](https://github.com/esalkan/CSharp-NET-Core-Oop-Road-Map/blob/master/CS04_03_Defining_Method/Student.cs)">Student Class</a>
+        </li>
+      </ul>
     </li>
     <li>
     	<a href="https://github.com/esalkan/CSharp-NET-Core-Oop-Road-Map/blob/master/CS04_04_Metod_Practice_MathOperations/Program.cs"> Practice | 4 Mathematical Operations </a>
       <ul>
-        <li>Math Class</li>
+        <li>
+          <a href="https://github.com/esalkan/CSharp-NET-Core-Oop-Road-Map/blob/master/CS04_04_Metod_Practice_MathOperations/Math.cs">Math Class</a
+        </li>
       </ul>
     </li>
     <li>
@@ -213,3 +225,4 @@ This repo contains C# & .NET Core and Oop Notes, Exercises and Works... You can 
     </li>
   </ul>
 </details>
+
