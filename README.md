@@ -168,7 +168,7 @@ This repo contains C# & .NET Core and Oop Notes, Exercises and Works... You can 
     	<a href="https://github.com/esalkan/CSharp-NET-Core-Oop-Road-Map/blob/master/CS03_04_SortedList/Program.cs">SortedList</a>
     </li>
     <li>
-    	<a href="#">Stack</a>
+    	<a href="https://github.com/esalkan/CSharp-NET-Core-Oop-Road-Map/blob/master/CS03_05_Stack/Program.cs">Stack</a>
     </li>
     <li>
     	<a href="#">Queue</a>
