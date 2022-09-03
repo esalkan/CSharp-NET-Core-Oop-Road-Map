@@ -193,7 +193,7 @@ This repo contains C# & .NET Core and Oop Notes, Exercises and Works... You can 
     	<a href="https://github.com/esalkan/CSharp-NET-Core-Oop-Road-Map/tree/master/CS04_03_Defining_Method"> Defining a Method and Access Modifiers</a>
       <ul>
         <li>
-          <a href="[https://github.com/esalkan/CSharp-NET-Core-Oop-Road-Map/blob/master/CS04_04_Metod_Practice_MathOperations/Math.cs](https://github.com/esalkan/CSharp-NET-Core-Oop-Road-Map/blob/master/CS04_03_Defining_Method/Student.cs)">Student Class</a>
+          <a href="https://github.com/esalkan/CSharp-NET-Core-Oop-Road-Map/blob/master/CS04_04_Metod_Practice_MathOperations/Math.cs"> Student Class</a>
         </li>
       </ul>
     </li>
