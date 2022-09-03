@@ -171,10 +171,42 @@ This repo contains C# & .NET Core and Oop Notes, Exercises and Works... You can 
     	<a href="https://github.com/esalkan/CSharp-NET-Core-Oop-Road-Map/blob/master/CS03_05_Stack/Program.cs">Stack</a>
     </li>
     <li>
-    	<a href="#">Queue</a>
+    	<a href="https://github.com/esalkan/CSharp-NET-Core-Oop-Road-Map/blob/master/CS03_06_Queue/Program.cs">Queue</a>
+    </li>
+  </ul>
+</details>
+<details>
+  <summary><h3>Methods</h3></summary>
+  <ul>
+    <li>
+    	<a href=""> </a>
     </li>
     <li>
-    	<a href="#">BitArray</a>
+    	<a href=""> </a>
+    </li>
+    <li>
+    	<a href=""> </a>
+    </li>
+    <li>
+    	<a href=""> </a>
+    </li>
+    <li>
+    	<a href=""> </a>
+    </li>
+    <li>
+    	<a href=""> </a>
+    </li>
+    <li>
+    	<a href=""> </a>
+    </li>
+    <li>
+    	<a href=""> </a>
+    </li>
+    <li>
+    	<a href=""> </a>
+    </li>
+    <li>
+    	<a href=""> </a>
     </li>
   </ul>
 </details>
