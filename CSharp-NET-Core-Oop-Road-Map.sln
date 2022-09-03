@@ -127,6 +127,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS04_04_Metod_Practice_Math
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS04_05_Method_Practice_Student_Pass_Fail_Calculation", "CS04_05_Method_Practice_Student_Pass_Fail_Calculation\CS04_05_Method_Practice_Student_Pass_Fail_Calculation.csproj", "{77ADCB08-7EEE-4418-B9ED-5C7DE27A940C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS04_06_Ref_Out_Usage", "CS04_06_Ref_Out_Usage\CS04_06_Ref_Out_Usage.csproj", "{B9FC0D17-69B4-455E-8664-19518E72D76A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -365,6 +367,10 @@ Global
 		{77ADCB08-7EEE-4418-B9ED-5C7DE27A940C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{77ADCB08-7EEE-4418-B9ED-5C7DE27A940C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{77ADCB08-7EEE-4418-B9ED-5C7DE27A940C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9FC0D17-69B4-455E-8664-19518E72D76A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9FC0D17-69B4-455E-8664-19518E72D76A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9FC0D17-69B4-455E-8664-19518E72D76A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9FC0D17-69B4-455E-8664-19518E72D76A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -428,6 +434,7 @@ Global
 		{AA24F0FE-7DD1-44BD-B09E-79ECDD382B9D} = {C1292728-2AEE-43D5-A120-B8626BB84C8F}
 		{819163C0-9CC9-4F89-8722-EBB67083503D} = {C1292728-2AEE-43D5-A120-B8626BB84C8F}
 		{77ADCB08-7EEE-4418-B9ED-5C7DE27A940C} = {C1292728-2AEE-43D5-A120-B8626BB84C8F}
+		{B9FC0D17-69B4-455E-8664-19518E72D76A} = {C1292728-2AEE-43D5-A120-B8626BB84C8F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {06077E7A-1939-45B8-970B-9717CEFA525D}
