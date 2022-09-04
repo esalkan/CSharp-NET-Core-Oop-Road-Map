@@ -231,3 +231,39 @@ This repo contains C# & .NET Core and Oop Notes, Exercises and Works... You can 
   </ul>
 </details>
 
+  <details>
+    <summary><h3>OOP - Classes</h3></summary>
+    <ul>
+      <li>
+        <a href="https://github.com/esalkan/CSharp-NET-Core-Oop-Road-Map/blob/master/CS05_01_Introduction/Program.cs">OOP - Classes Introduction</a>
+      </li>
+      <li>
+        <a href="https://github.com/esalkan/CSharp-NET-Core-Oop-Road-Map/blob/master/CS05_02_Class_Identifying_Reviewing/Program.cs">OOP - Class Identifying and Reviewing</a>
+        <ul>
+          <li>
+            <a href="https://github.com/esalkan/CSharp-NET-Core-Oop-Road-Map/blob/master/CS05_02_Class_Identifying_Reviewing/Customer.cs">Customer.cs</a>
+          </li>
+        </ul>
+      </li>
+      <li>
+        <a href="https://github.com/esalkan/CSharp-NET-Core-Oop-Road-Map/blob/master/CS05_03_Constructor_Method/Program.cs">OOP - Class | Constructor Methods, Constructor Overloading</a>
+        <ul>
+          <li>
+            <a href="https://github.com/esalkan/CSharp-NET-Core-Oop-Road-Map/blob/master/CS05_03_Constructor_Method/Customer.cs">Customer.cs</a>
+          </li>
+        </ul>
+      </li>
+      <li>
+        <a href="https://github.com/esalkan/CSharp-NET-Core-Oop-Road-Map/blob/master/CS05_04_Using_Of_Methods_In_Class/Program.cs">OOP - Class | Using Of Methods In Class</a>
+        <ul>
+          <li>
+            <a href="https://github.com/esalkan/CSharp-NET-Core-Oop-Road-Map/blob/master/CS05_04_Using_Of_Methods_In_Class/Customer.cs">Customer.cs</a>
+          </li>
+        </ul>
+      </li>
+      <li>
+        <a href=""></a>
+      </li>
+    </ul>
+  </details>
+
