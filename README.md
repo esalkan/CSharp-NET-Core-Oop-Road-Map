@@ -235,10 +235,10 @@ This repo contains C# & .NET Core and Oop Notes, Exercises and Works... You can 
     <summary><h3>OOP - Classes</h3></summary>
     <ul>
       <li>
-        <a href="https://github.com/esalkan/CSharp-NET-Core-Oop-Road-Map/blob/master/CS05_01_Introduction/Program.cs">OOP - Classes Introduction</a>
+        <a href="https://github.com/esalkan/CSharp-NET-Core-Oop-Road-Map/blob/master/CS05_01_Introduction/Program.cs">OOP - Class | Introduction</a>
       </li>
       <li>
-        <a href="https://github.com/esalkan/CSharp-NET-Core-Oop-Road-Map/blob/master/CS05_02_Class_Identifying_Reviewing/Program.cs">OOP - Class Identifying and Reviewing</a>
+        <a href="https://github.com/esalkan/CSharp-NET-Core-Oop-Road-Map/blob/master/CS05_02_Class_Identifying_Reviewing/Program.cs">OOP - Class | Identifying and Reviewing</a>
         <ul>
           <li>
             <a href="https://github.com/esalkan/CSharp-NET-Core-Oop-Road-Map/blob/master/CS05_02_Class_Identifying_Reviewing/Customer.cs">Customer.cs</a>
