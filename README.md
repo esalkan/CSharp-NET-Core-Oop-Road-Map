@@ -223,10 +223,10 @@ This repo contains C# & .NET Core and Oop Notes, Exercises and Works... You can 
     	<a href="https://github.com/esalkan/CSharp-NET-Core-Oop-Road-Map/blob/master/CS04_08_Method_Overloading/Program.cs"> Method Overloading </a>
     </li>
     <li>
-    	<a href=""> </a>
+    	<a href="https://github.com/esalkan/CSharp-NET-Core-Oop-Road-Map/blob/master/CS04_09_Method_Use_In_Method_Params/Program.cs"> Method use in method parameters </a>
     </li>
     <li>
-    	<a href=""> </a>
+    	<a href="https://github.com/esalkan/CSharp-NET-Core-Oop-Road-Map/blob/master/CS04_10_Local_Functions/Program.cs"> Local Function </a>
     </li>
   </ul>
 </details>
