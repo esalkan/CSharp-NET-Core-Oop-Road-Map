@@ -145,6 +145,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS05_02_Class_Identifying_R
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS05_03_Constructor_Method", "CS05_03_Constructor_Method\CS05_03_Constructor_Method.csproj", "{3376DCD7-97B9-4ADE-B965-8EC243864AEB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS05_04_Using_Of_Methods_In_Class", "CS05_04_Using_Of_Methods_In_Class\CS05_04_Using_Of_Methods_In_Class.csproj", "{B32F74C6-CC98-4CB0-9D0D-F984830AB425}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -415,6 +417,10 @@ Global
 		{3376DCD7-97B9-4ADE-B965-8EC243864AEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3376DCD7-97B9-4ADE-B965-8EC243864AEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3376DCD7-97B9-4ADE-B965-8EC243864AEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B32F74C6-CC98-4CB0-9D0D-F984830AB425}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B32F74C6-CC98-4CB0-9D0D-F984830AB425}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B32F74C6-CC98-4CB0-9D0D-F984830AB425}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B32F74C6-CC98-4CB0-9D0D-F984830AB425}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -486,6 +492,7 @@ Global
 		{9577D9AC-5C06-4025-B329-43591C6EDD45} = {3D0F2301-5322-4AFA-B5AF-13CD68F32D32}
 		{DC4A651B-9EC6-418D-B9A6-1CE393F1383C} = {3D0F2301-5322-4AFA-B5AF-13CD68F32D32}
 		{3376DCD7-97B9-4ADE-B965-8EC243864AEB} = {3D0F2301-5322-4AFA-B5AF-13CD68F32D32}
+		{B32F74C6-CC98-4CB0-9D0D-F984830AB425} = {3D0F2301-5322-4AFA-B5AF-13CD68F32D32}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {06077E7A-1939-45B8-970B-9717CEFA525D}
