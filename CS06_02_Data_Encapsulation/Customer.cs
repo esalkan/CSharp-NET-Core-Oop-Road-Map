@@ -17,10 +17,11 @@ internal class Customer
 
     #region Class Fields | Sınıf Alanları
     // Class Fields. | Sınıf Alanları.
-    public int id;              // Public
-    public string name;         // Public
-    public string surname;      // Public
-    private string emailAddress; // Private
+    public int id;                  // Public
+    public string name;             // Public
+    public string surname;          // Public
+    private string emailAddress;    // Private
+    private string tcIdentityNumber;   // Private
     #endregion
 
     #region Class Properties | Sınıf Özellikleri
@@ -72,6 +73,53 @@ internal class Customer
     {
         Random Rnd = new Random();
         return Rnd.Next(10000, 90000);
+    }
+
+    #endregion
+
+    #region Example
+
+    public string TcIdentityNumber
+    {
+        get
+        {
+            return this.tcIdentityNumber.Substring(0,4);
+        }
+        set
+        {
+            if (value.Length == 11)
+            {
+                bool flag = false;
+                for (int i = 0; i < value.Length; i++)
+                {
+                    bool charControl = char.IsNumber(value[i]);
+                    if (charControl)
+                    {
+                        // It's numeric
+                        // Sayısaldır.
+                    }
+                    else
+                    {
+                        flag = true;
+                        break;
+                    }
+                }
+
+                if (flag)
+                {
+                    Console.WriteLine("The entered values must contains Digits.");
+                }
+                else
+                {
+                    this.tcIdentityNumber = value;
+                }
+            }
+            else
+            {
+                Console.WriteLine("The entered value must be 11 digits.");
+                Console.WriteLine("Girilen değer 11 hane olmalıdır.");
+            }
+        }
     }
 
     #endregion

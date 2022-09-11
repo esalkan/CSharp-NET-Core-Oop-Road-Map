@@ -49,6 +49,16 @@
             Console.WriteLine($"Customer Id (Generated with Costructor) : {m2.id}");
             Console.WriteLine($"Customer Id (Generated with Costructor) : {m2.ID}");
             #endregion
+            
+            #region In the class, it is possible to assign a value to the field, but the first 4 digits of the value can be read. | Class içerisinde, field'a değer ataması yapılabilsin ama değerin ilk 4 hanesi okunabilsin
+            Console.WriteLine("\n------------------------------------------------------------------------------------");
+            Console.WriteLine("- In the class, it is possible to assign a value to the field, but the first 4 digits of the value can be read.");
+            Console.WriteLine("- Class içerisinde, field'a değer ataması yapılabilsin ama değerin ilk 4 hanesi okunabilsin.");
+            Customer m3 = new Customer();
+            m3.TcIdentityNumber = "12345678910";
+            string CustomerTC = m3.TcIdentityNumber;
+            Console.WriteLine("First 4 digits : " + CustomerTC);
+            #endregion
         }
     }
 }
