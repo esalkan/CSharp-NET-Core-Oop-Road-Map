@@ -77,7 +77,7 @@ internal class Customer
 
     #endregion
 
-    #region Example
+    #region In the class, it is possible to assign a value to the field, but the first 4 digits of the value can be read. | Class içerisinde, field'a değer ataması yapılabilsin ama değerin ilk 4 hanesi okunabilsin
 
     public string TcIdentityNumber
     {
@@ -93,12 +93,7 @@ internal class Customer
                 for (int i = 0; i < value.Length; i++)
                 {
                     bool charControl = char.IsNumber(value[i]);
-                    if (charControl)
-                    {
-                        // It's numeric
-                        // Sayısaldır.
-                    }
-                    else
+                    if (!charControl)
                     {
                         flag = true;
                         break;
