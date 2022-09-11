@@ -64,6 +64,23 @@
             Console.WriteLine("First 4 digits : " + CustomerTC);
             
             #endregion
+
+            #region In the class, it is possible to assign a value to the field and read it, but in these two operations, it must go through a process we specify and the data will be displayed later. | Class içerisinde, field'a değer ataması ve okuma işlemi yapılabilsin ama bu iki işlemde bizim belirlediğimiz bir süreçten geçsin ve veri daha sonra gösterilsin.
+
+            Console.WriteLine("In the class, it is possible to assign a value to the field and read it, but in these two operations, it must go through a process we specify and the data will be displayed later.");
+            Console.WriteLine("Class içerisinde, field'a değer ataması ve okuma işlemi yapılabilsin ama bu iki işlemde bizim belirlediğimiz bir süreçten geçsin ve veri daha sonra gösterilsin.");
+            // "name" & "surname"
+            // "name" ve "surname[surname"] = set
+            // email address
+            // email get email.address@mail.com
+            // set : private
+            Customer m4 = new Customer();
+            m4.name = "Eyüp Sabri";
+            m4.GenerateEmailAddressWithNameAndSurname = "ALKAN";
+            string customerEmail = m4.EmailAddress;
+            Console.WriteLine(customerEmail);
+
+            #endregion
         }
     }
 }

@@ -17,11 +17,12 @@ internal class Customer
 
     #region Class Fields | Sınıf Alanları
     // Class Fields. | Sınıf Alanları.
-    public int id;                  // Public
-    public string name;             // Public
-    public string surname;          // Public
-    private string emailAddress;    // Private
-    private string tcIdentityNumber;   // Private
+    public int id;                      // Public
+    public string name;                 // Public
+    public string surname;              // Public
+    private string _surname;            // Private
+    private string _emailAddress;        // Private
+    private string _tcIdentityNumber;   // Private
     #endregion
 
     #region Class Properties | Sınıf Özellikleri
@@ -40,12 +41,12 @@ internal class Customer
         // Getting data... (for use getting data.)
         get
         {
-            return this.emailAddress;
+            return this._emailAddress;
         }   
         // Setting data... (Which data set by developer)
         set
         {
-            this.emailAddress = value;
+            this._emailAddress = value;
         }
     }
 
@@ -83,7 +84,7 @@ internal class Customer
     {
         get
         {
-            return this.tcIdentityNumber.Substring(0,4);
+            return this._tcIdentityNumber.Substring(0,4);
         }
         set
         {
@@ -106,7 +107,7 @@ internal class Customer
                 }
                 else
                 {
-                    this.tcIdentityNumber = value;
+                    this._tcIdentityNumber = value;
                 }
             }
             else
@@ -118,8 +119,28 @@ internal class Customer
     }
 
     #endregion
-    
-    
+
+    #region In the class, it is possible to assign a value to the field and read it, but in these two operations, it must go through a process we specify and the data will be displayed later. | Class içerisinde, field'a değer ataması ve okuma işlemi yapılabilsin ama bu iki işlemde bizim belirlediğimiz bir süreçten geçsin ve veri daha sonra gösterilsin.
+
+    public string GenerateEmailAddressWithNameAndSurname
+    {
+        get
+        {
+            return this._surname;
+        }
+        set
+        {
+            this._surname = value;
+
+            if (name.Contains(" "))
+            {
+                name = name.Replace(" ", "_");
+            }
+            
+            this._emailAddress = string.Format("{0}.{1}@charp.com", name.ToLower(), _surname.ToLower());
+        }
+    }
+    #endregion
     #endregion
     
     
