@@ -159,6 +159,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CS07_OOP_Static_Concept", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS07_01_Static_Introduction", "CS07_01_Static_Introduction\CS07_01_Static_Introduction.csproj", "{3C0763BE-C3E6-4524-B301-DBFFE1D05D47}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS07_02_Static", "CS07_02_Static\CS07_02_Static.csproj", "{9392F524-3C30-4F56-BBC7-4F2E293165C7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -449,6 +451,10 @@ Global
 		{3C0763BE-C3E6-4524-B301-DBFFE1D05D47}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3C0763BE-C3E6-4524-B301-DBFFE1D05D47}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3C0763BE-C3E6-4524-B301-DBFFE1D05D47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9392F524-3C30-4F56-BBC7-4F2E293165C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9392F524-3C30-4F56-BBC7-4F2E293165C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9392F524-3C30-4F56-BBC7-4F2E293165C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9392F524-3C30-4F56-BBC7-4F2E293165C7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -525,6 +531,7 @@ Global
 		{CB4E0C7C-5EAA-4F47-A46E-067D9155C53F} = {F9566F8A-E86E-4B62-85AF-EBC8B950A44E}
 		{A5122CF7-E9DF-4AED-AF6D-6A857CF59909} = {F9566F8A-E86E-4B62-85AF-EBC8B950A44E}
 		{3C0763BE-C3E6-4524-B301-DBFFE1D05D47} = {176A1D9D-2B8E-424A-BAD7-86FE01B4BFBA}
+		{9392F524-3C30-4F56-BBC7-4F2E293165C7} = {176A1D9D-2B8E-424A-BAD7-86FE01B4BFBA}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {06077E7A-1939-45B8-970B-9717CEFA525D}
