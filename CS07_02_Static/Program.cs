@@ -22,6 +22,26 @@
             Console.WriteLine();
             static1.Name = "ALKAN";
             Console.WriteLine(static1.Name);
+            
+            
+            /*
+             * Gerçek hayatta nerelerde kullanulabilir.
+             *
+             * 1- Helpers.cs => Kontroller için
+             * 2- Oluşturmuş olduğumuz nesnemizin => bağımlılığı farklı class lara olduğu için
+             * (proje içerisinde özel olduğu için) nesne içerisinde static metot tanımları yapılır.
+             * 3- Class içerisinde bir field (static) tanımı yapar ilgili field içerisine bir değer ataması yaparız.
+             * Daha sonra uygulama içerisinde "N" farklı yerde oluşturduğumuz static field ımıza ulaşır değerimizi okuruz.
+             *
+             *
+             * Where it can be used in real life.
+             *
+             * 1- Helpers.cs => For Controls
+             * 2- Since the object => we have created is dependent on different classes
+             * (since it is private in the project), static method definitions are made in the object.
+             * 3- We define a field (static) in the class and assign a value to the related field.
+             * Then we reach our static field that we created in "N" different places in the application and read our value.
+             */
 
         }
     }
