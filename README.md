@@ -271,4 +271,19 @@ This repo contains C# & .NET Core and Oop Notes, Exercises and Works... You can 
       </li>
     </ul>
   </details>
-
+<details>
+  <summary><h3>OOP - Encapsulation</h3></summary>
+  <ul>
+    <li>
+      <a href="https://github.com/esalkan/CSharp-NET-Core-Oop-Road-Map/blob/master/CS06_01_Encapsulation_Introduction/Program.cs">Encapsulation Introduction</a>
+    </li>
+    <li>
+      <a href="https://github.com/esalkan/CSharp-NET-Core-Oop-Road-Map/blob/master/CS06_02_Data_Encapsulation/Program.cs">Data Encapsulation</a>
+      <ul>
+        <li>
+          <a href="https://github.com/esalkan/CSharp-NET-Core-Oop-Road-Map/blob/master/CS06_02_Data_Encapsulation/Customer.cs">Customer.cs</a>
+        </li>
+      </ul>
+    </li>
+  </ul>
+</details>
