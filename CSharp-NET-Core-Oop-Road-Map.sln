@@ -155,6 +155,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS06_01_Encapsulation_Intro
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS06_02_Data_Encapsulation", "CS06_02_Data_Encapsulation\CS06_02_Data_Encapsulation.csproj", "{A5122CF7-E9DF-4AED-AF6D-6A857CF59909}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CS07_OOP_Static_Concept", "CS07_OOP_Static_Concept", "{176A1D9D-2B8E-424A-BAD7-86FE01B4BFBA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS07_01_Static_Introduction", "CS07_01_Static_Introduction\CS07_01_Static_Introduction.csproj", "{3C0763BE-C3E6-4524-B301-DBFFE1D05D47}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -441,6 +445,10 @@ Global
 		{A5122CF7-E9DF-4AED-AF6D-6A857CF59909}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A5122CF7-E9DF-4AED-AF6D-6A857CF59909}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A5122CF7-E9DF-4AED-AF6D-6A857CF59909}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C0763BE-C3E6-4524-B301-DBFFE1D05D47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C0763BE-C3E6-4524-B301-DBFFE1D05D47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C0763BE-C3E6-4524-B301-DBFFE1D05D47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C0763BE-C3E6-4524-B301-DBFFE1D05D47}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -516,6 +524,7 @@ Global
 		{C3A20FAE-510E-4F57-B78F-3E20AA4F9E82} = {3D0F2301-5322-4AFA-B5AF-13CD68F32D32}
 		{CB4E0C7C-5EAA-4F47-A46E-067D9155C53F} = {F9566F8A-E86E-4B62-85AF-EBC8B950A44E}
 		{A5122CF7-E9DF-4AED-AF6D-6A857CF59909} = {F9566F8A-E86E-4B62-85AF-EBC8B950A44E}
+		{3C0763BE-C3E6-4524-B301-DBFFE1D05D47} = {176A1D9D-2B8E-424A-BAD7-86FE01B4BFBA}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {06077E7A-1939-45B8-970B-9717CEFA525D}
