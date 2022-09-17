@@ -1,0 +1,49 @@
+Müşteri adında bir nesne oluşturacağız ve oluşturmuş olduğumuz nesnemizin içerisinde static olarak
+bir ArrayList oluşturacağız.
+
+Oluşturduğumuz bu ArrayList'i koleksiyonumuzu sanal bir database mantığında kullanacağız.
+
+Müşteri sınıfımızın içerisinde;
+    - ID,
+    - Isim,
+    - Soyad,
+    - Email Adress,
+    - Kullanıcı Adı,
+    - Şifre
+    işlemleri için field/property oluşturacağız.
+    
+Oluşturmuş olduğumuz bu fild listesinden bazılarının kapsülleme filtreleri;
+    - Kullanıcı adı değeri sanal olarak oluşturmuş olduğumuz database içerisinde arababilsin, eğer kullanıcı adı
+    sanal database içerisinde bulunursa field içerisine eklenmek istenen değer eklenmesin (Kapsülleme)
+    
+    - Müşteri ekle adında bir static metot oluşturacağız. Parametre olarak müşteri tipi alsın, 
+    Metod içerisinde;
+        - Müşteri nesnesinin null olup olmadığını ve müşteri nesnesi içerisindeki kullanıcı adının dolu olması
+        şartına bakılsın.
+        - Yukarıdaki kriterlerden geçerse müşterimizi sanal olarak oluşturmuş olduğumuz database içerisine eklemeden
+        önce email adresinden bir kontrol sağlansın, eğer sistemde aynı email adresi ile bir müşteri değeri var ise
+        ekleme işlemi yapılamasın, yok ise sanal database içerisine ilgili nesneyi eklesin.
+        
+------------------------------------------------------------------------------------------------------------------------
+We will create an object called Customer and create an ArrayList as static inside the object we have created.
+
+We will use this ArrayList collection we created in a virtual database logic.
+        
+In our customer class; 
+We will create a field/property for 
+    - ID, 
+    - Name, 
+    - Surname, 
+    - Email Address, 
+    - Username, 
+    - Password.
+    
+Encapsulation filters of some of this fild list we have created;
+    - Let the user name value be able to drive in the database we have created virtually, 
+    if the user name is found in the virtual database, the value to be added to the field is not added (Encapsulation)
+    
+    - We will create a static method called add customer. Take the customer type as a parameter, in the Method;
+        - Check if the customer object is null and the user name in the customer object is full.
+        - If it passes the above criteria, check the email address before adding our customer to the database we have 
+        created, if there is a customer value with the same email address in the system, 
+        the addition cannot be done, if not, add the relevant object into the virtual database.
