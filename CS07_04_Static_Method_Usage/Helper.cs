@@ -2,6 +2,7 @@ namespace CS07_04_Static_Method_Usage;
 
 public class Helper
 {
+    // Static Method for send an Email
     public static void sendEmail(string recipientEmail, string subject, string content)
     {
         // Email send process will contuniue....
