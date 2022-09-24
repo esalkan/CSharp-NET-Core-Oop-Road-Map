@@ -33,6 +33,23 @@
             c1.CustomerAddresses[0].CustomerAddressTestMethod();
             #endregion
 
+            #region Customer Product inner type
+
+            c1.CustomerOrderInformations[0] = new CustomerOrderInformation()
+            {
+                OrderNumber = "1"
+            };
+            
+            c1.CustomerOrderInformations[0].Products[0] = new Product()
+            {
+                ProductId = 1,
+                ProductName = "Phone",
+                ProductPrice = 27000m
+            };
+
+
+            #endregion
+
             #endregion
         }
     }
