@@ -63,119 +63,126 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CS01_29_AsOperator", "CS01_
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CS01_30_Exercise_06", "CS01_30_Exercise_06\CS01_30_Exercise_06.csproj", "{F28A5253-0F2A-4764-A80D-9E191E4D945B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS01_31_ControlFlowStatement_IF", "CS01_31_ControlFlowStatement_IF\CS01_31_ControlFlowStatement_IF.csproj", "{392BD353-32D1-46FB-AF9D-0B195F83156A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CS01_31_ControlFlowStatement_IF", "CS01_31_ControlFlowStatement_IF\CS01_31_ControlFlowStatement_IF.csproj", "{392BD353-32D1-46FB-AF9D-0B195F83156A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS01_32_ControlFlowStatement_IF-ELSE", "CS01_32_ControlFlowStatement_IF-ELSE\CS01_32_ControlFlowStatement_IF-ELSE.csproj", "{010223DA-5428-4641-89ED-A21B4791ABD2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CS01_32_ControlFlowStatement_IF-ELSE", "CS01_32_ControlFlowStatement_IF-ELSE\CS01_32_ControlFlowStatement_IF-ELSE.csproj", "{010223DA-5428-4641-89ED-A21B4791ABD2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS01_33_ControlFlowStatement_IF-ELSEIF-IF", "CS01_33_ControlFlowStatement_IF-ELSEIF-IF\CS01_33_ControlFlowStatement_IF-ELSEIF-IF.csproj", "{75FF4381-4E72-46D4-959A-6AEABB57E821}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CS01_33_ControlFlowStatement_IF-ELSEIF-IF", "CS01_33_ControlFlowStatement_IF-ELSEIF-IF\CS01_33_ControlFlowStatement_IF-ELSEIF-IF.csproj", "{75FF4381-4E72-46D4-959A-6AEABB57E821}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS01_34_ControlFlowStatement_SwitchCase", "CS01_34_ControlFlowStatement_SwitchCase\CS01_34_ControlFlowStatement_SwitchCase.csproj", "{6C5511B0-DC8F-4CA3-A45E-C177E673682F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CS01_34_ControlFlowStatement_SwitchCase", "CS01_34_ControlFlowStatement_SwitchCase\CS01_34_ControlFlowStatement_SwitchCase.csproj", "{6C5511B0-DC8F-4CA3-A45E-C177E673682F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS01_35_Exercise_07", "CS01_35_Exercise_07\CS01_35_Exercise_07.csproj", "{757E036E-F706-422D-9ACB-9ADF9991842D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CS01_35_Exercise_07", "CS01_35_Exercise_07\CS01_35_Exercise_07.csproj", "{757E036E-F706-422D-9ACB-9ADF9991842D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS01_36_Exercise_08", "CS01_36_Exercise_08\CS01_36_Exercise_08.csproj", "{287D206A-E86C-4C31-B91D-B2B2B77D5D74}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CS01_36_Exercise_08", "CS01_36_Exercise_08\CS01_36_Exercise_08.csproj", "{287D206A-E86C-4C31-B91D-B2B2B77D5D74}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS01_37_Exercise_09", "CS01_37_Exercise_09\CS01_37_Exercise_09.csproj", "{1D146FAB-F36B-430D-BA49-FD7C22CF93AA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CS01_37_Exercise_09", "CS01_37_Exercise_09\CS01_37_Exercise_09.csproj", "{1D146FAB-F36B-430D-BA49-FD7C22CF93AA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS01_38_Loops_ForLoop", "CS01_38_Loops_ForLoop\CS01_38_Loops_ForLoop.csproj", "{96ED7FD6-11C2-4653-A7B6-ADAADA03AB23}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CS01_38_Loops_ForLoop", "CS01_38_Loops_ForLoop\CS01_38_Loops_ForLoop.csproj", "{96ED7FD6-11C2-4653-A7B6-ADAADA03AB23}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS01_39_Loops_Nested_ForLoop", "CS01_39_Loops_Nested_ForLoop\CS01_39_Loops_Nested_ForLoop.csproj", "{BE00D8CC-7A6D-4489-9092-8057E14132D1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CS01_39_Loops_Nested_ForLoop", "CS01_39_Loops_Nested_ForLoop\CS01_39_Loops_Nested_ForLoop.csproj", "{BE00D8CC-7A6D-4489-9092-8057E14132D1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS01_40_Loops_ForEach", "CS01_40_Loops_ForEach\CS01_40_Loops_ForEach.csproj", "{562AEE8A-0611-410B-96A3-BA0F39673B18}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CS01_40_Loops_ForEach", "CS01_40_Loops_ForEach\CS01_40_Loops_ForEach.csproj", "{562AEE8A-0611-410B-96A3-BA0F39673B18}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS01_41_Loops_While", "CS01_41_Loops_While\CS01_41_Loops_While.csproj", "{C667D2FE-7691-47AB-8095-2C29A4AEAE71}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CS01_41_Loops_While", "CS01_41_Loops_While\CS01_41_Loops_While.csproj", "{C667D2FE-7691-47AB-8095-2C29A4AEAE71}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS01_42_Loops_DoWhile", "CS01_42_Loops_DoWhile\CS01_42_Loops_DoWhile.csproj", "{95932D68-462E-47C1-9324-E5341F9DDEED}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CS01_42_Loops_DoWhile", "CS01_42_Loops_DoWhile\CS01_42_Loops_DoWhile.csproj", "{95932D68-462E-47C1-9324-E5341F9DDEED}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CS02_Arrays", "CS02_Arrays", "{AB643B01-ADF8-4FDE-8164-9AAE4FA0141C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS02_01_Arrays", "CS02_01_Arrays\CS02_01_Arrays.csproj", "{E787A3AF-B145-429A-8880-DD4C774D6EA1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CS02_01_Arrays", "CS02_01_Arrays\CS02_01_Arrays.csproj", "{E787A3AF-B145-429A-8880-DD4C774D6EA1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS02_02_DeclaringArrays", "CS02_02_DeclaringArrays\CS02_02_DeclaringArrays.csproj", "{5BAFDA6E-16CD-4300-8500-A36860FFE27B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CS02_02_DeclaringArrays", "CS02_02_DeclaringArrays\CS02_02_DeclaringArrays.csproj", "{5BAFDA6E-16CD-4300-8500-A36860FFE27B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS02_03_InitializingArray", "CS02_03_InitializingArray\CS02_03_InitializingArray.csproj", "{62E924E7-DE41-4439-9EC7-D110AA6FA241}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CS02_03_InitializingArray", "CS02_03_InitializingArray\CS02_03_InitializingArray.csproj", "{62E924E7-DE41-4439-9EC7-D110AA6FA241}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS02_04_AssigningValuesToAnArray", "CS02_04_AssigningValuesToAnArray\CS02_04_AssigningValuesToAnArray.csproj", "{AF1ADA8D-DAFC-494C-9541-9A5954423011}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CS02_04_AssigningValuesToAnArray", "CS02_04_AssigningValuesToAnArray\CS02_04_AssigningValuesToAnArray.csproj", "{AF1ADA8D-DAFC-494C-9541-9A5954423011}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS02_05_AccessingArrayElements", "CS02_05_AccessingArrayElements\CS02_05_AccessingArrayElements.csproj", "{56001FF0-8F3A-4AC4-B1FE-0DFC7BC7B36D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CS02_05_AccessingArrayElements", "CS02_05_AccessingArrayElements\CS02_05_AccessingArrayElements.csproj", "{56001FF0-8F3A-4AC4-B1FE-0DFC7BC7B36D}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CS03_Collections", "CS03_Collections", "{6752EE9F-836B-4030-A604-A837837AECDA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS03_01_Collections", "CS03_01_Collections\CS03_01_Collections.csproj", "{417C8490-1110-4393-A9AF-4EF4F36516F6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CS03_01_Collections", "CS03_01_Collections\CS03_01_Collections.csproj", "{417C8490-1110-4393-A9AF-4EF4F36516F6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS03_02_ArrayList", "CS03_02_ArrayList\CS03_02_ArrayList.csproj", "{2B07F807-BA33-458F-966C-EF5E3E227D67}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CS03_02_ArrayList", "CS03_02_ArrayList\CS03_02_ArrayList.csproj", "{2B07F807-BA33-458F-966C-EF5E3E227D67}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS03_03_HashTable", "CS03_03_HashTable\CS03_03_HashTable.csproj", "{147C63BC-EB78-4F71-A151-18A8A826C9C1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CS03_03_HashTable", "CS03_03_HashTable\CS03_03_HashTable.csproj", "{147C63BC-EB78-4F71-A151-18A8A826C9C1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS01_09_VariableBehaviors", "CS01_09_VariableBehaviors\CS01_09_VariableBehaviors.csproj", "{5390A9DB-3D92-4927-AD7F-6F4AD35EEB7B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CS01_09_VariableBehaviors", "CS01_09_VariableBehaviors\CS01_09_VariableBehaviors.csproj", "{5390A9DB-3D92-4927-AD7F-6F4AD35EEB7B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS03_04_SortedList", "CS03_04_SortedList\CS03_04_SortedList.csproj", "{FF85C429-65B6-4AB8-8A0C-689122E3E9B3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CS03_04_SortedList", "CS03_04_SortedList\CS03_04_SortedList.csproj", "{FF85C429-65B6-4AB8-8A0C-689122E3E9B3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS03_05_Stack", "CS03_05_Stack\CS03_05_Stack.csproj", "{B7CD435A-BCF8-4A94-849D-386DE824E6E9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CS03_05_Stack", "CS03_05_Stack\CS03_05_Stack.csproj", "{B7CD435A-BCF8-4A94-849D-386DE824E6E9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS03_06_Queue", "CS03_06_Queue\CS03_06_Queue.csproj", "{2A405EC4-328F-495E-A968-A41BDEBC0583}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CS03_06_Queue", "CS03_06_Queue\CS03_06_Queue.csproj", "{2A405EC4-328F-495E-A968-A41BDEBC0583}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CS04_Methods", "CS04_Methods", "{C1292728-2AEE-43D5-A120-B8626BB84C8F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS04_01_Introduction", "CS04_01_Introduction\CS04_01_Introduction.csproj", "{AC862E87-9D4B-490C-96D0-62D35B21CE61}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CS04_01_Introduction", "CS04_01_Introduction\CS04_01_Introduction.csproj", "{AC862E87-9D4B-490C-96D0-62D35B21CE61}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS04_02_Main_Method", "CS04_02_Main_Method\CS04_02_Main_Method.csproj", "{E6B667EC-3010-469D-B290-31F9A01BAA2C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CS04_02_Main_Method", "CS04_02_Main_Method\CS04_02_Main_Method.csproj", "{E6B667EC-3010-469D-B290-31F9A01BAA2C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS04_03_Defining_Method", "CS04_03_Defining_Method\CS04_03_Defining_Method.csproj", "{AA24F0FE-7DD1-44BD-B09E-79ECDD382B9D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CS04_03_Defining_Method", "CS04_03_Defining_Method\CS04_03_Defining_Method.csproj", "{AA24F0FE-7DD1-44BD-B09E-79ECDD382B9D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS04_04_Metod_Practice_MathOperations", "CS04_04_Metod_Practice_MathOperations\CS04_04_Metod_Practice_MathOperations.csproj", "{819163C0-9CC9-4F89-8722-EBB67083503D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CS04_04_Metod_Practice_MathOperations", "CS04_04_Metod_Practice_MathOperations\CS04_04_Metod_Practice_MathOperations.csproj", "{819163C0-9CC9-4F89-8722-EBB67083503D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS04_05_Method_Practice_Student_Pass_Fail_Calculation", "CS04_05_Method_Practice_Student_Pass_Fail_Calculation\CS04_05_Method_Practice_Student_Pass_Fail_Calculation.csproj", "{77ADCB08-7EEE-4418-B9ED-5C7DE27A940C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CS04_05_Method_Practice_Student_Pass_Fail_Calculation", "CS04_05_Method_Practice_Student_Pass_Fail_Calculation\CS04_05_Method_Practice_Student_Pass_Fail_Calculation.csproj", "{77ADCB08-7EEE-4418-B9ED-5C7DE27A940C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS04_06_Ref_Out_Usage", "CS04_06_Ref_Out_Usage\CS04_06_Ref_Out_Usage.csproj", "{B9FC0D17-69B4-455E-8664-19518E72D76A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CS04_06_Ref_Out_Usage", "CS04_06_Ref_Out_Usage\CS04_06_Ref_Out_Usage.csproj", "{B9FC0D17-69B4-455E-8664-19518E72D76A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS04_07_Params", "CS04_07_Params\CS04_07_Params.csproj", "{68E7D323-1C05-4A38-9EB5-E2D25BFB7DDB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CS04_07_Params", "CS04_07_Params\CS04_07_Params.csproj", "{68E7D323-1C05-4A38-9EB5-E2D25BFB7DDB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS04_08_Method_Overloading", "CS04_08_Method_Overloading\CS04_08_Method_Overloading.csproj", "{6D222F3F-8C30-48A7-B2B7-952B9ED96AE8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CS04_08_Method_Overloading", "CS04_08_Method_Overloading\CS04_08_Method_Overloading.csproj", "{6D222F3F-8C30-48A7-B2B7-952B9ED96AE8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS04_09_Method_Use_In_Method_Params", "CS04_09_Method_Use_In_Method_Params\CS04_09_Method_Use_In_Method_Params.csproj", "{81686DBF-F838-480F-8291-2175015CFB47}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CS04_09_Method_Use_In_Method_Params", "CS04_09_Method_Use_In_Method_Params\CS04_09_Method_Use_In_Method_Params.csproj", "{81686DBF-F838-480F-8291-2175015CFB47}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS04_10_Local_Functions", "CS04_10_Local_Functions\CS04_10_Local_Functions.csproj", "{B6894DED-95FE-495D-B9B2-5D6A5F367EC9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CS04_10_Local_Functions", "CS04_10_Local_Functions\CS04_10_Local_Functions.csproj", "{B6894DED-95FE-495D-B9B2-5D6A5F367EC9}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CS05_OOP_Classes", "CS05_OOP_Classes", "{3D0F2301-5322-4AFA-B5AF-13CD68F32D32}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS05_01_Introduction", "CS05_01_Introduction\CS05_01_Introduction.csproj", "{9577D9AC-5C06-4025-B329-43591C6EDD45}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CS05_01_Introduction", "CS05_01_Introduction\CS05_01_Introduction.csproj", "{9577D9AC-5C06-4025-B329-43591C6EDD45}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS05_02_Class_Identifying_Reviewing", "CS05_02_Class_Identifying_Reviewing\CS05_02_Class_Identifying_Reviewing.csproj", "{DC4A651B-9EC6-418D-B9A6-1CE393F1383C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CS05_02_Class_Identifying_Reviewing", "CS05_02_Class_Identifying_Reviewing\CS05_02_Class_Identifying_Reviewing.csproj", "{DC4A651B-9EC6-418D-B9A6-1CE393F1383C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS05_03_Constructor_Method", "CS05_03_Constructor_Method\CS05_03_Constructor_Method.csproj", "{3376DCD7-97B9-4ADE-B965-8EC243864AEB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CS05_03_Constructor_Method", "CS05_03_Constructor_Method\CS05_03_Constructor_Method.csproj", "{3376DCD7-97B9-4ADE-B965-8EC243864AEB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS05_04_Using_Of_Methods_In_Class", "CS05_04_Using_Of_Methods_In_Class\CS05_04_Using_Of_Methods_In_Class.csproj", "{B32F74C6-CC98-4CB0-9D0D-F984830AB425}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CS05_04_Using_Of_Methods_In_Class", "CS05_04_Using_Of_Methods_In_Class\CS05_04_Using_Of_Methods_In_Class.csproj", "{B32F74C6-CC98-4CB0-9D0D-F984830AB425}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS05_05_Practice_Exercise", "CS05_05_Practice_Exercise\CS05_05_Practice_Exercise.csproj", "{C3A20FAE-510E-4F57-B78F-3E20AA4F9E82}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CS05_05_Practice_Exercise", "CS05_05_Practice_Exercise\CS05_05_Practice_Exercise.csproj", "{C3A20FAE-510E-4F57-B78F-3E20AA4F9E82}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CS06_OOP_Encapsulation", "CS06_OOP_Encapsulation", "{F9566F8A-E86E-4B62-85AF-EBC8B950A44E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS06_01_Encapsulation_Introduction", "CS06_01_Encapsulation_Introduction\CS06_01_Encapsulation_Introduction.csproj", "{CB4E0C7C-5EAA-4F47-A46E-067D9155C53F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CS06_01_Encapsulation_Introduction", "CS06_01_Encapsulation_Introduction\CS06_01_Encapsulation_Introduction.csproj", "{CB4E0C7C-5EAA-4F47-A46E-067D9155C53F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS06_02_Data_Encapsulation", "CS06_02_Data_Encapsulation\CS06_02_Data_Encapsulation.csproj", "{A5122CF7-E9DF-4AED-AF6D-6A857CF59909}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CS06_02_Data_Encapsulation", "CS06_02_Data_Encapsulation\CS06_02_Data_Encapsulation.csproj", "{A5122CF7-E9DF-4AED-AF6D-6A857CF59909}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CS07_OOP_Static_Concept", "CS07_OOP_Static_Concept", "{176A1D9D-2B8E-424A-BAD7-86FE01B4BFBA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS07_01_Static_Introduction", "CS07_01_Static_Introduction\CS07_01_Static_Introduction.csproj", "{3C0763BE-C3E6-4524-B301-DBFFE1D05D47}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CS07_01_Static_Introduction", "CS07_01_Static_Introduction\CS07_01_Static_Introduction.csproj", "{3C0763BE-C3E6-4524-B301-DBFFE1D05D47}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS07_02_Static", "CS07_02_Static\CS07_02_Static.csproj", "{9392F524-3C30-4F56-BBC7-4F2E293165C7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CS07_02_Static", "CS07_02_Static\CS07_02_Static.csproj", "{9392F524-3C30-4F56-BBC7-4F2E293165C7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS07_03_Static_Field_Usage", "CS07_03_Static_Field_Usage\CS07_03_Static_Field_Usage.csproj", "{D2EE6BE0-CD0E-4A69-A1F2-A2AEB00C2BE0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CS07_03_Static_Field_Usage", "CS07_03_Static_Field_Usage\CS07_03_Static_Field_Usage.csproj", "{D2EE6BE0-CD0E-4A69-A1F2-A2AEB00C2BE0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS07_04_Static_Method_Usage", "CS07_04_Static_Method_Usage\CS07_04_Static_Method_Usage.csproj", "{B85C5898-35F3-4FF5-AAA7-51E37412ADE5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CS07_04_Static_Method_Usage", "CS07_04_Static_Method_Usage\CS07_04_Static_Method_Usage.csproj", "{B85C5898-35F3-4FF5-AAA7-51E37412ADE5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS07_05_Static_Class_Usage", "CS07_05_Static_Class_Usage\CS07_05_Static_Class_Usage.csproj", "{56A16DE1-3809-43D0-9946-AFC26C859858}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CS07_05_Static_Class_Usage", "CS07_05_Static_Class_Usage\CS07_05_Static_Class_Usage.csproj", "{56A16DE1-3809-43D0-9946-AFC26C859858}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS07_06_Static_NonStatic_Constructors", "CS07_06_Static_NonStatic_Constructors\CS07_06_Static_NonStatic_Constructors.csproj", "{AC0833F3-1C63-4DF0-9500-F78DF4B3333C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CS07_06_Static_NonStatic_Constructors", "CS07_06_Static_NonStatic_Constructors\CS07_06_Static_NonStatic_Constructors.csproj", "{AC0833F3-1C63-4DF0-9500-F78DF4B3333C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS07_07_Exercise", "CS07_07_Exercise\CS07_07_Exercise.csproj", "{93300B53-19E6-4B37-910F-5DC1DB31F5B1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CS07_07_Exercise", "CS07_07_Exercise\CS07_07_Exercise.csproj", "{93300B53-19E6-4B37-910F-5DC1DB31F5B1}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CS08_OOP_InnerType", "CS08_OOP_InnerType", "{81C415FD-EE35-4AB5-A456-0A9759B5B218}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS08_01_InnerType_Introduction", "CS08_01_InnerType_Introduction\CS08_01_InnerType_Introduction.csproj", "{32A771F4-2901-42F0-AC75-F0D7DB2E9EE8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CS08_01_InnerType_Introduction", "CS08_01_InnerType_Introduction\CS08_01_InnerType_Introduction.csproj", "{32A771F4-2901-42F0-AC75-F0D7DB2E9EE8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS08_02_InnerType_Modeling", "CS08_02_InnerType_Modeling\CS08_02_InnerType_Modeling.csproj", "{A4B68526-0413-43C1-9BEF-D1A647603171}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CS08_02_InnerType_Modeling", "CS08_02_InnerType_Modeling\CS08_02_InnerType_Modeling.csproj", "{A4B68526-0413-43C1-9BEF-D1A647603171}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CS09_OOP_Inheritance", "CS09_OOP_Inheritance", "{7FB424B8-FBA9-43F2-89DF-3BB2AC2973E1}"
+	ProjectSection(SolutionItems) = preProject
+		CS09_01_Inheritance.txt = CS09_01_Inheritance.txt
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS09_WhatIsInheritance", "CS09_WhatIsInheritance\CS09_WhatIsInheritance.csproj", "{52DD104B-20FE-41C7-BA20-A81C80F6813D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -499,6 +506,10 @@ Global
 		{A4B68526-0413-43C1-9BEF-D1A647603171}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A4B68526-0413-43C1-9BEF-D1A647603171}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A4B68526-0413-43C1-9BEF-D1A647603171}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52DD104B-20FE-41C7-BA20-A81C80F6813D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52DD104B-20FE-41C7-BA20-A81C80F6813D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52DD104B-20FE-41C7-BA20-A81C80F6813D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52DD104B-20FE-41C7-BA20-A81C80F6813D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -583,6 +594,7 @@ Global
 		{93300B53-19E6-4B37-910F-5DC1DB31F5B1} = {176A1D9D-2B8E-424A-BAD7-86FE01B4BFBA}
 		{32A771F4-2901-42F0-AC75-F0D7DB2E9EE8} = {81C415FD-EE35-4AB5-A456-0A9759B5B218}
 		{A4B68526-0413-43C1-9BEF-D1A647603171} = {81C415FD-EE35-4AB5-A456-0A9759B5B218}
+		{52DD104B-20FE-41C7-BA20-A81C80F6813D} = {7FB424B8-FBA9-43F2-89DF-3BB2AC2973E1}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {06077E7A-1939-45B8-970B-9717CEFA525D}
