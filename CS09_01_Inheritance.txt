@@ -1,0 +1,34 @@
+﻿Kalıtım nesne yönelimli programlama konusu içerisinde önemli bir yere sahiptir.
+
+Kalıtım ya da miras alma olarak adlandırılır.
+
+Kalıtım yolu ile oluşturduğumuz nesnelerimiz birbirlerinden türetilebilir ve
+türeyen nesne türetilen nesnenin tüm özelliklerini kullanabilir.
+
+Object tipi framework içerisindeki tüm nesnelerin atası olan bir tip olduğu için
+(tüm nesneler object nesnesinden katıldığı için) türetilen tip kendisinden türeyen
+tüm tipleri tanır ve tam bir uyumluluk sağlar.
+
+Örnek:
+	Ogrenci O1 = new Ogrenci();
+
+Yukarıda nesne örneği alınan öğrenci nesnesi aslında object tipinden türetilmiş bir nesnedir.
+
+-----------------------------------------------------------------------------------------------
+
+Inheritance has an important place in object-oriented programming.
+
+It is called inheritance.
+
+Our objects that we create by inheritance can be derived from each other and
+The derived object can use all the properties of the derived object.
+
+Since the Object type is the ancestor of all objects in the framework,
+(because all objects are joined from object ) the derived type derives from itself
+recognizes all types and ensures full compatibility.
+
+Example:
+	Student O1 = new Student();
+
+The student object, which was taken as an object example above, 
+is actually an object derived from the object type.
