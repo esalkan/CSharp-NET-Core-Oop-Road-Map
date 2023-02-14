@@ -287,3 +287,42 @@ This repo contains C# & .NET Core and Oop Notes, Exercises and Works... You can 
     </li>
   </ul>
 </details>
+
+<details>
+  <summary><h3>OOP - Static Concept</h3></summary>
+  <ul>
+    <li>
+      <a href="https://github.com/esalkan/CSharp-NET-Core-Oop-Road-Map/tree/master/CS07_01_Static_Introduction">Static Introduction</a>
+    </li>
+    <li>
+      <a href="https://github.com/esalkan/CSharp-NET-Core-Oop-Road-Map/tree/master/CS07_02_Static">Static</a>
+    </li>
+    <li>
+      <a href="https://github.com/esalkan/CSharp-NET-Core-Oop-Road-Map/tree/master/CS07_03_Static_Field_Usage">Static Field Usage</a>
+    </li>
+    <li>
+      <a href="https://github.com/esalkan/CSharp-NET-Core-Oop-Road-Map/tree/master/CS07_04_Static_Method_Usage">Static Method Usage</a>
+    </li>
+    <li>
+      <a href="https://github.com/esalkan/CSharp-NET-Core-Oop-Road-Map/tree/master/CS07_05_Static_Class_Usage">Static Class Usage</a>
+    </li>
+    <li>
+      <a href="https://github.com/esalkan/CSharp-NET-Core-Oop-Road-Map/tree/master/CS07_06_Static_NonStatic_Constructors">Static Non-Static Constructors</a>
+    </li>
+    <li>
+      <a href="https://github.com/esalkan/CSharp-NET-Core-Oop-Road-Map/tree/master/CS07_07_Exercise">Exercises</a>
+    </li>
+  </ul>
+</details>
+
+<details>
+  <summary><h3>OOP - Inner Type</h3></summary>
+  <ul>
+    <li>
+      <a href="https://github.com/esalkan/CSharp-NET-Core-Oop-Road-Map/tree/master/CS08_01_InnerType_Introduction">Inner Type Introduction</a>
+    </li>
+    <li>
+      <a href="https://github.com/esalkan/CSharp-NET-Core-Oop-Road-Map/tree/master/CS08_02_InnerType_Modeling">Inner Type Modeling</a>
+    </li>
+  </ul>
+</details>
