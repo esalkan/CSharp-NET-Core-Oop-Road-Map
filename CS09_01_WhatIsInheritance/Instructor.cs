@@ -1,4 +1,4 @@
-namespace CS09_WhatIsInheritance;
+namespace CS09_01_WhatIsInheritance;
 
 public class Instructor : BaseType
 {

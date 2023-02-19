@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CS09_WhatIsInheritance
+namespace CS09_01_WhatIsInheritance
 {
     public class Student : BaseType
     {

@@ -182,7 +182,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CS09_OOP_Inheritance", "CS0
 		CS09_01_Inheritance.txt = CS09_01_Inheritance.txt
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS09_WhatIsInheritance", "CS09_WhatIsInheritance\CS09_WhatIsInheritance.csproj", "{52DD104B-20FE-41C7-BA20-A81C80F6813D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS09_01_WhatIsInheritance", "CS09_01_WhatIsInheritance\CS09_01_WhatIsInheritance.csproj", "{52DD104B-20FE-41C7-BA20-A81C80F6813D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS09_02_Constructor", "CS09_02_Constructor\CS09_02_Constructor.csproj", "{86420C6A-7C02-43D7-99F2-B60FCEA4486B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -510,6 +512,10 @@ Global
 		{52DD104B-20FE-41C7-BA20-A81C80F6813D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{52DD104B-20FE-41C7-BA20-A81C80F6813D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{52DD104B-20FE-41C7-BA20-A81C80F6813D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86420C6A-7C02-43D7-99F2-B60FCEA4486B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86420C6A-7C02-43D7-99F2-B60FCEA4486B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86420C6A-7C02-43D7-99F2-B60FCEA4486B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86420C6A-7C02-43D7-99F2-B60FCEA4486B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -595,6 +601,7 @@ Global
 		{32A771F4-2901-42F0-AC75-F0D7DB2E9EE8} = {81C415FD-EE35-4AB5-A456-0A9759B5B218}
 		{A4B68526-0413-43C1-9BEF-D1A647603171} = {81C415FD-EE35-4AB5-A456-0A9759B5B218}
 		{52DD104B-20FE-41C7-BA20-A81C80F6813D} = {7FB424B8-FBA9-43F2-89DF-3BB2AC2973E1}
+		{86420C6A-7C02-43D7-99F2-B60FCEA4486B} = {7FB424B8-FBA9-43F2-89DF-3BB2AC2973E1}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {06077E7A-1939-45B8-970B-9717CEFA525D}
