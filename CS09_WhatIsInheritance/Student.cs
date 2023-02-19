@@ -6,12 +6,13 @@ using System.Threading.Tasks;
 
 namespace CS09_WhatIsInheritance
 {
-    public class Student
+    public class Student : BaseType
     {
-        #region Fiels
-        public int studentId { get; set; }
-        public string name { get; set; }
-        public string surname { get; set; }
+        #region Fiels/Properties
+        
+        public string Department { get; set; }
+        public int Grade { get; set; }
+        
         #endregion
     }
 }

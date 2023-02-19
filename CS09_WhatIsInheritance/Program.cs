@@ -10,8 +10,15 @@ namespace CS09_WhatIsInheritance
     {
         static void Main(string[] args)
         {
-            Student S1 = new Student();
-            // S1.
+            Instructor instructor1 = new Instructor();
+            // instructor1.
+            
+            Staff staff1 = new Staff();
+            // staff1.
+
+            Student student1 = new Student();
+            // student1.
+
         }
     }
 }
