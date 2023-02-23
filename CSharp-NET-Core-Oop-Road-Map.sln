@@ -188,6 +188,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS09_02_Constructor", "CS09
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS09_03_Accessing_Constructor_Methods", "CS09_03_Accessing_Constructor_Methods\CS09_03_Accessing_Constructor_Methods.csproj", "{6086785C-0933-47CE-A831-D402D4CF2370}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS09_04_Boxing_Unboxing", "CS09_04_Boxing_Unboxing\CS09_04_Boxing_Unboxing.csproj", "{C7899C64-7E34-46A3-93C1-92059982B21C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -522,6 +524,10 @@ Global
 		{6086785C-0933-47CE-A831-D402D4CF2370}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6086785C-0933-47CE-A831-D402D4CF2370}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6086785C-0933-47CE-A831-D402D4CF2370}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7899C64-7E34-46A3-93C1-92059982B21C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7899C64-7E34-46A3-93C1-92059982B21C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7899C64-7E34-46A3-93C1-92059982B21C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7899C64-7E34-46A3-93C1-92059982B21C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -609,6 +615,7 @@ Global
 		{52DD104B-20FE-41C7-BA20-A81C80F6813D} = {7FB424B8-FBA9-43F2-89DF-3BB2AC2973E1}
 		{86420C6A-7C02-43D7-99F2-B60FCEA4486B} = {7FB424B8-FBA9-43F2-89DF-3BB2AC2973E1}
 		{6086785C-0933-47CE-A831-D402D4CF2370} = {7FB424B8-FBA9-43F2-89DF-3BB2AC2973E1}
+		{C7899C64-7E34-46A3-93C1-92059982B21C} = {7FB424B8-FBA9-43F2-89DF-3BB2AC2973E1}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {06077E7A-1939-45B8-970B-9717CEFA525D}
