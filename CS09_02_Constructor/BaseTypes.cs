@@ -30,10 +30,5 @@ public class BaseTypes
         Random random = new Random();
         this.Id = random.Next(1, 1000);
     }
-
-    public void BaseTypeMethod1()
-    {
-        Console.WriteLine("Base Type => Method 1");
-    }
     #endregion
 }
