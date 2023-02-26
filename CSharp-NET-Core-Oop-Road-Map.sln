@@ -200,6 +200,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS09_07_InheritanceWithinTh
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS09_08_ProtectedKeyword", "CS09_08_ProtectedKeyword\CS09_08_ProtectedKeyword.csproj", "{0C4DDFC9-4044-4BA3-9F17-985759A5E79C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS09_09_ExerciseProject", "CS09_09_ExerciseProject\CS09_09_ExerciseProject.csproj", "{183EF61F-9D87-4450-9201-3F2509FBE690}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -554,6 +556,10 @@ Global
 		{0C4DDFC9-4044-4BA3-9F17-985759A5E79C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0C4DDFC9-4044-4BA3-9F17-985759A5E79C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0C4DDFC9-4044-4BA3-9F17-985759A5E79C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{183EF61F-9D87-4450-9201-3F2509FBE690}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{183EF61F-9D87-4450-9201-3F2509FBE690}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{183EF61F-9D87-4450-9201-3F2509FBE690}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{183EF61F-9D87-4450-9201-3F2509FBE690}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -655,6 +661,7 @@ Global
 		{6BFD4483-0069-45B6-B8B6-E76DD5D508DF} = {7FB424B8-FBA9-43F2-89DF-3BB2AC2973E1}
 		{F1812AC6-439B-4399-AAF8-3F36BA3B633A} = {7FB424B8-FBA9-43F2-89DF-3BB2AC2973E1}
 		{0C4DDFC9-4044-4BA3-9F17-985759A5E79C} = {7FB424B8-FBA9-43F2-89DF-3BB2AC2973E1}
+		{183EF61F-9D87-4450-9201-3F2509FBE690} = {7FB424B8-FBA9-43F2-89DF-3BB2AC2973E1}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {06077E7A-1939-45B8-970B-9717CEFA525D}
