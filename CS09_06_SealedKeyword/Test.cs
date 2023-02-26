@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CS09_06_SealedKeyword
 {
-    public class Test : Instructor
+    public class Test
     {
     }
 }
