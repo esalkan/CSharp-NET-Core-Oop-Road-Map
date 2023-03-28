@@ -8,5 +8,9 @@ namespace CS09_06_SealedKeyword
 {
     public class Test
     {
+        internal void BaseTypeMethod1()
+        {
+            throw new NotImplementedException();
+        }
     }
 }
