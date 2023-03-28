@@ -6,10 +6,10 @@ internal class Program
     {
         #region String Variable Type & String Methods
 
-        var nameSurname = "Eyüp Sabri ALKAN";
+        var nameSurname = "John DOE";
         Console.WriteLine("-----> String Variable Type <-----");
         // String Type
-        nameSurname = "Ayşe ALKAN"; // Change the nameSurname Value
+        nameSurname = "Jane DOE"; // Change the nameSurname Value
 
         Console.WriteLine("-----> String Methods <-----");
         var toUpper = nameSurname.ToUpper();
