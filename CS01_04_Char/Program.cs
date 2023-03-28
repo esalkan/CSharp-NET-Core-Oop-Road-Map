@@ -5,7 +5,6 @@ internal class Program
     private static void Main(string[] args)
     {
         #region Char Variable Type & Char Methods
-
         // Genellikle değişkende tek bir karakter saklamak için kullanırız.
         // Usually we use it to store a single character in the variable.
 
@@ -15,7 +14,6 @@ internal class Program
         var userSelectChar = 'A';
 
         Console.WriteLine(userSelectChar);
-
         #endregion
     }
 }
