@@ -13,7 +13,7 @@ internal class Program
         // string           : VariableType
         // nameSurname      : VariableName
         // Eyüp Sabri ALKAN : value
-        var nameSurname = "Eyüp Sabri ALKAN";
+        var nameSurname = "John DOE";
 
         Console.WriteLine(nameSurname); // print-out on console.
 
