@@ -23,7 +23,7 @@ namespace CS11_01_Abstraction
 
             SuperCustomer SpC1 = new SuperCustomer();
             SpC1.testAbstractMethod();  // testAbstractMethod() is in BaseClass
-                                        // BaseClass içerisindeki testAbstractMethod()
+            // BaseClass içerisindeki testAbstractMethod()
 
 
         }
