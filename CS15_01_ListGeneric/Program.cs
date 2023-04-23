@@ -7,6 +7,15 @@ using System.Threading.Tasks;
 
 namespace CS15_01_ListGeneric
 {
+    /*
+     * Generics allow you to define the specification of the data type of programming elements in a class or a method, 
+     * until it is actually used in the program. 
+     * In other words, generics allow you to write a class or method that can work with any data type.
+     * 
+     * Jenerikler, programda fiilen kullanılana kadar, 
+     * bir sınıf veya yöntemdeki programlama öğelerinin veri türünün belirtimini tanımlamanıza olanak tanır. 
+     * Başka bir deyişle, jenerikler, herhangi bir veri türüyle çalışabilecek bir sınıf veya yöntem yazmanıza izin verir.
+     */
     internal class Program
     {
         static void Main(string[] args)
