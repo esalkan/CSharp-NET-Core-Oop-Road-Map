@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("CS15_01_ListGeneric")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("MeDirect Bank (Malta) plc.")]
+[assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("CS15_01_ListGeneric")]
-[assembly: AssemblyCopyright("Copyright © MeDirect Bank (Malta) plc. 2023")]
+[assembly: AssemblyCopyright("")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
