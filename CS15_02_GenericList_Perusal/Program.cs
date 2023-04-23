@@ -133,6 +133,36 @@ namespace CS15_02_GenericList_Perusal
             Console.WriteLine("---------------------------------------------------------");
             // ---------------------------------------------------------------------------------
 
+            // Max() Method
+            // Getting highest value in List<T>
+            // List<T> listesindeki en yüksek değeri alır.
+            Console.WriteLine("Max()");
+            int highestValue = myNumbers.Max();
+            Console.WriteLine(highestValue);
+
+            Console.WriteLine("---------------------------------------------------------");
+            // ---------------------------------------------------------------------------------
+
+            // Min() Method
+            // Getting lowest value in List<T>
+            // List<T> listesindeki en küçük değeri alır.
+            Console.WriteLine("Min()");
+            int lowestValue = myNumbers.Min();
+            Console.WriteLine(lowestValue);
+
+            Console.WriteLine("---------------------------------------------------------");
+            // ---------------------------------------------------------------------------------
+
+            // Sum() Method
+            // List<T> eleman değerlerinin toplamını alır.
+            // List<T> gets the sum of the element values.
+            Console.WriteLine("Sum()");
+            int sumValue = myNumbers.Sum();
+            Console.WriteLine(sumValue);
+
+            Console.WriteLine("---------------------------------------------------------");
+            // ---------------------------------------------------------------------------------
+
             // RemoveAll()
             // Removes all the elements that match the conditions defined by the specified predicate.
             // Belirtilen yüklem tarafından tanımlanan koşullarla eşleşen tüm öğeleri kaldırır.
@@ -157,7 +187,6 @@ namespace CS15_02_GenericList_Perusal
             // List<T>'den tüm öğeleri kaldırır.
             Console.WriteLine("Clear()");
             myNumbers.Clear();
-
         }
     }
 }
