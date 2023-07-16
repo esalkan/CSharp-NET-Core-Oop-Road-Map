@@ -26,7 +26,6 @@ namespace CS16_01_GenericClass
 
             CustomerGeneric<Guid> customerGeneric2 = new CustomerGeneric<Guid>();
             customerGeneric2.getCustomerNumber();
-
         }
     }
 }

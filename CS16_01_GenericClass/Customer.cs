@@ -8,7 +8,7 @@ namespace CS16_01_GenericClass
 {
     public class Customer
     {
-        // This is our NON-Generic Class | Bu bizim Generic-OLMAYAN Classimiz.
+        // This is our NON-Generic Class | Bu bizim Generic-OLMAYAN Sınıfımız.
         public int id { get; set; }
         public string customerNumber { get; set; }
         public string socialSecurityNumber { get; set; }
