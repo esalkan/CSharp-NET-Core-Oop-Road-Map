@@ -11,6 +11,10 @@ namespace CS16_02_GenericClass_01
      * We can use that generic class like;
      *      - public class GenericRepository<T, R, K, etc...>  = But it is not nice, maximum 2 is general usage.
      *      - public class GenericRepository<T> where T:Class  = Means, T type must be Class.
+     *      
+     *  Bu jenerik sınıfı şöyle kullanabiliriz;
+     *      - public class GenericRepository<T, R, K, etc...> = Ama hoş değil, en fazla 2 genel kullanımdır.
+     *      - public class GenericRepository<T> burada T:Class = T tipinin Class olması gerektiği anlamına gelir.
      */
     {
         public GenericRepository()
