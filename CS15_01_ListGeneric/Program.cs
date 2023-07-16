@@ -76,6 +76,9 @@ namespace CS15_01_ListGeneric
             // Creating a Generic List.
             // Generic bir liste oluşturalım.
             List<Customer> customerList = new List<Customer>();
+
+            // Fast way to define objects.
+            // Hızlı nesne tanımlama yolu.
             customerList.Add(new Customer()
             {
                 id = 1,
