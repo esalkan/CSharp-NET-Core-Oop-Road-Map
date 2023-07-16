@@ -35,7 +35,7 @@ namespace CS15_01_ListGeneric
 
             Console.WriteLine("----------------------------------------------");
 
-            // <T> : T tipi demek; .NET framework içerisinde olan veya bizim oluşturduğumuz herhangi bir tip demektir.
+            // <T> : T tipi demek; .NET framework içerisinde olan veya bizim oluşturduğumuz herhangi bir tip demektir. (Kısaca Herhangi bir tip demektir)
             // <T> : means T type; It means any type that is in the .NET framework or that we create.
             
             // Accepts just "Int" type data
@@ -43,7 +43,7 @@ namespace CS15_01_ListGeneric
             List<int> listGeneric = new List<int>();
             listGeneric.Add(1);
             listGeneric.Add(2);
-            // listGeneric1.Add("one");
+            // listGeneric1.Add("one"); // » Our that collection is just accept "integer" value // » Bu koleksiyonumuz sadece "tamsayı" değerini kabul eder.
             // listGeneric1.Add("two");
 
             for (int i = 0; i < listGeneric.Count; i++)
@@ -63,7 +63,7 @@ namespace CS15_01_ListGeneric
             List<string> names = new List<string>();
             names.Add("John");
             names.Add("Jane");
-            //listGeneric2.Add(1);
+            //listGeneric2.Add(1); // » Our that collection is just accept "String" value // » Bu koleksiyonumuz sadece "String/Dize/Dizgi" değerini kabul eder.
             //listGeneric2.Add(2);
 
             for (int i = 0; i < names.Count; i++)
@@ -82,10 +82,18 @@ namespace CS15_01_ListGeneric
                 name = "John",
                 surname = "DOE"
             });
+            
+            customerList.Add(new Customer()
+            {
+                id = 2,
+                name = "Jane",
+                surname = "DOE"
+            });
 
+            // Oluşturduğumuz Generic list'e atadığımız değerleri ekrana çıktı olarak alalım.
             foreach (Customer item in customerList)
             {
-                Console.WriteLine(item.name + " " + item.surname);
+                Console.WriteLine(item.id + " " + item.name + " " + item.surname);
                
             }
         }
