@@ -36,7 +36,7 @@ namespace CS15_02_GenericList_Perusal
             // 2nd Way, AddRange() Method
             myNumbers.AddRange(dataToAdd);
 
-            foreach (int i in dataToAdd)
+            foreach (int i in myNumbers)
             {
                 Console.WriteLine(i);
             }
@@ -52,7 +52,7 @@ namespace CS15_02_GenericList_Perusal
 
             // TrimExcess()
             // Sets the capacity to the actual number of elements in the List<T>, if that number is less than a threshold value.
-            // apasiteyi List<T>'deki gerçek eleman sayısına ayarlar, eğer bu sayı bir eşik değerinden küçükse.
+            // Kapasiteyi List<T>'deki gerçek eleman sayısına ayarlar (Eşitler), eğer bu sayı bir eşik değerinden küçükse.
             myNumbers.TrimExcess();
 
             capacity = myNumbers.Capacity;
@@ -62,6 +62,7 @@ namespace CS15_02_GenericList_Perusal
             // ---------------------------------------------------------------------------------
 
             // ForEach()
+            // "=>" Lambda ifadesidir.
             // => lambda, ilgili koleksiyon içerisinde arama yap ve konsola yazdır. | => List<T> içerisinde Linq konusudur.
             // => lambda, search the related collection and print it to the console.| => is the subject of Linq in List<T>.
             myNumbers.ForEach(item => Console.WriteLine(item));
