@@ -21,7 +21,7 @@ namespace CS16_02_GenericClass_01
              *  - surname: nvarchar(50) = String
              *  - birthDay: DateTime = DateTime
              *  
-             *  
+             *  Design Pattern
              *  UnitOfWorks => Generic Class | Generic Interface | 
              * 
              */
